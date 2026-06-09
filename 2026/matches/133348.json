@@ -1,0 +1,2166 @@
+{
+  "competitionId": 133348,
+  "matches": [
+    {
+      "matchId": 6529830,
+      "home": "Hammarby",
+      "homeScore": 3,
+      "away": "Mjällby AIF",
+      "awayScore": 0,
+      "date": "2026-04-04T15:00+02:00",
+      "arena": "3Arena",
+      "attendance": 30162,
+      "round": 1
+    },
+    {
+      "matchId": 6529835,
+      "home": "Degerfors IF",
+      "homeScore": 0,
+      "away": "IK Sirius FK",
+      "awayScore": 3,
+      "date": "2026-04-04T15:00+02:00",
+      "arena": "Stora Valla A-plan",
+      "attendance": 4015,
+      "round": 1
+    },
+    {
+      "matchId": 6529829,
+      "home": "AIK",
+      "homeScore": 2,
+      "away": "Halmstad",
+      "awayScore": 1,
+      "date": "2026-04-05T14:00+02:00",
+      "arena": "Nationalarenan, Strawberry Arena",
+      "attendance": 39085,
+      "round": 1
+    },
+    {
+      "matchId": 6529836,
+      "home": "Kalmar FF",
+      "homeScore": 0,
+      "away": "Västerås SK FK",
+      "awayScore": 1,
+      "date": "2026-04-05T14:00+02:00",
+      "arena": "Guldfågeln Arena, Kalmar",
+      "attendance": 6789,
+      "round": 1
+    },
+    {
+      "matchId": 6529832,
+      "home": "Örgryte IS Fotboll",
+      "homeScore": 1,
+      "away": "Malmö FF",
+      "awayScore": 1,
+      "date": "2026-04-05T16:30+02:00",
+      "arena": "Gamla Ullevi",
+      "attendance": 13360,
+      "round": 1
+    },
+    {
+      "matchId": 6529833,
+      "home": "BK Häcken",
+      "homeScore": 2,
+      "away": "IF Brommapojkarna",
+      "awayScore": 2,
+      "date": "2026-04-06T14:00+02:00",
+      "arena": "Nordic Wellness Arena",
+      "attendance": 4104,
+      "round": 1
+    },
+    {
+      "matchId": 6529834,
+      "home": "IF Elfsborg",
+      "homeScore": 2,
+      "away": "IFK Göteborg",
+      "awayScore": 0,
+      "date": "2026-04-06T14:00+02:00",
+      "arena": "Borås Arena",
+      "attendance": 14344,
+      "round": 1
+    },
+    {
+      "matchId": 6529831,
+      "home": "GAIS",
+      "homeScore": 0,
+      "away": "Djurgården",
+      "awayScore": 1,
+      "date": "2026-04-06T16:30+02:00",
+      "arena": "Gamla Ullevi",
+      "attendance": 17165,
+      "round": 1
+    },
+    {
+      "matchId": 6529838,
+      "home": "IFK Göteborg",
+      "homeScore": 0,
+      "away": "BK Häcken",
+      "awayScore": 2,
+      "date": "2026-04-11T15:00+02:00",
+      "arena": "Gamla Ullevi",
+      "attendance": 17457,
+      "round": 2
+    },
+    {
+      "matchId": 6529839,
+      "home": "Mjällby AIF",
+      "homeScore": 0,
+      "away": "Örgryte IS Fotboll",
+      "awayScore": 2,
+      "date": "2026-04-11T15:00+02:00",
+      "arena": "Strandvallen A-plan",
+      "attendance": 3884,
+      "round": 2
+    },
+    {
+      "matchId": 6529843,
+      "home": "Västerås SK FK",
+      "homeScore": 2,
+      "away": "IF Elfsborg",
+      "awayScore": 2,
+      "date": "2026-04-11T15:00+02:00",
+      "arena": "Hitachi Energy Arena",
+      "attendance": 7449,
+      "round": 2
+    },
+    {
+      "matchId": 6529837,
+      "home": "Djurgården",
+      "homeScore": 3,
+      "away": "Kalmar FF",
+      "awayScore": 2,
+      "date": "2026-04-12T14:00+02:00",
+      "arena": "3Arena",
+      "attendance": 26454,
+      "round": 2
+    },
+    {
+      "matchId": 6529844,
+      "home": "Halmstad",
+      "homeScore": 0,
+      "away": "Degerfors IF",
+      "awayScore": 3,
+      "date": "2026-04-12T14:00+02:00",
+      "arena": "Örjans Vall",
+      "attendance": 4638,
+      "round": 2
+    },
+    {
+      "matchId": 6529840,
+      "home": "Malmö FF",
+      "homeScore": 3,
+      "away": "GAIS",
+      "awayScore": 1,
+      "date": "2026-04-12T16:30+02:00",
+      "arena": "Eleda Stadion",
+      "attendance": 19500,
+      "round": 2
+    },
+    {
+      "matchId": 6529841,
+      "home": "IF Brommapojkarna",
+      "homeScore": 2,
+      "away": "AIK",
+      "awayScore": 2,
+      "date": "2026-04-13T19:00+02:00",
+      "arena": "Grimsta IP 1",
+      "attendance": 4421,
+      "round": 2
+    },
+    {
+      "matchId": 6529842,
+      "home": "IK Sirius FK",
+      "homeScore": 2,
+      "away": "Hammarby",
+      "awayScore": 0,
+      "date": "2026-04-13T19:00+02:00",
+      "arena": "Studenternas",
+      "attendance": 10306,
+      "round": 2
+    },
+    {
+      "matchId": 6529846,
+      "home": "Djurgården",
+      "homeScore": 0,
+      "away": "Malmö FF",
+      "awayScore": 1,
+      "date": "2026-04-17T19:00+02:00",
+      "arena": "3Arena",
+      "attendance": 27902,
+      "round": 3
+    },
+    {
+      "matchId": 6529850,
+      "home": "Degerfors IF",
+      "homeScore": 0,
+      "away": "IF Elfsborg",
+      "awayScore": 1,
+      "date": "2026-04-17T19:00+02:00",
+      "arena": "Stora Valla A-plan",
+      "attendance": 3112,
+      "round": 3
+    },
+    {
+      "matchId": 6529847,
+      "home": "Hammarby",
+      "homeScore": 8,
+      "away": "Örgryte IS Fotboll",
+      "awayScore": 1,
+      "date": "2026-04-18T15:00+02:00",
+      "arena": "3Arena",
+      "attendance": 26623,
+      "round": 3
+    },
+    {
+      "matchId": 6529849,
+      "home": "Mjällby AIF",
+      "homeScore": 3,
+      "away": "IF Brommapojkarna",
+      "awayScore": 0,
+      "date": "2026-04-18T15:00+02:00",
+      "arena": "Strandvallen A-plan",
+      "attendance": 3512,
+      "round": 3
+    },
+    {
+      "matchId": 6529851,
+      "home": "IK Sirius FK",
+      "homeScore": 4,
+      "away": "Västerås SK FK",
+      "awayScore": 1,
+      "date": "2026-04-18T15:00+02:00",
+      "arena": "Studenternas",
+      "attendance": 9228,
+      "round": 3
+    },
+    {
+      "matchId": 6529852,
+      "home": "Halmstad",
+      "homeScore": 1,
+      "away": "IFK Göteborg",
+      "awayScore": 1,
+      "date": "2026-04-18T15:00+02:00",
+      "arena": "Örjans Vall",
+      "attendance": 8644,
+      "round": 3
+    },
+    {
+      "matchId": 6529845,
+      "home": "AIK",
+      "homeScore": 1,
+      "away": "Kalmar FF",
+      "awayScore": 0,
+      "date": "2026-04-19T14:00+02:00",
+      "arena": "Nationalarenan, Strawberry Arena",
+      "attendance": 27784,
+      "round": 3
+    },
+    {
+      "matchId": 6529848,
+      "home": "BK Häcken",
+      "homeScore": 2,
+      "away": "GAIS",
+      "awayScore": 1,
+      "date": "2026-04-19T16:30+02:00",
+      "arena": "Nordic Wellness Arena",
+      "attendance": 6316,
+      "round": 3
+    },
+    {
+      "matchId": 6529853,
+      "home": "Hammarby",
+      "homeScore": 1,
+      "away": "Halmstad",
+      "awayScore": 1,
+      "date": "2026-04-22T19:00+02:00",
+      "arena": "3Arena",
+      "attendance": 22283,
+      "round": 4
+    },
+    {
+      "matchId": 6529855,
+      "home": "Örgryte IS Fotboll",
+      "homeScore": 1,
+      "away": "IF Brommapojkarna",
+      "awayScore": 2,
+      "date": "2026-04-22T19:00+02:00",
+      "arena": "Gamla Ullevi",
+      "attendance": 5001,
+      "round": 4
+    },
+    {
+      "matchId": 6529857,
+      "home": "IF Elfsborg",
+      "homeScore": 2,
+      "away": "Djurgården",
+      "awayScore": 1,
+      "date": "2026-04-22T19:00+02:00",
+      "arena": "Borås Arena",
+      "attendance": 9426,
+      "round": 4
+    },
+    {
+      "matchId": 6529859,
+      "home": "Västerås SK FK",
+      "homeScore": 3,
+      "away": "BK Häcken",
+      "awayScore": 3,
+      "date": "2026-04-22T19:00+02:00",
+      "arena": "Hitachi Energy Arena",
+      "attendance": 5908,
+      "round": 4
+    },
+    {
+      "matchId": 6529854,
+      "home": "GAIS",
+      "homeScore": 0,
+      "away": "Mjällby AIF",
+      "awayScore": 0,
+      "date": "2026-04-23T19:00+02:00",
+      "arena": "Gamla Ullevi",
+      "attendance": 8011,
+      "round": 4
+    },
+    {
+      "matchId": 6529856,
+      "home": "Malmö FF",
+      "homeScore": 2,
+      "away": "IK Sirius FK",
+      "awayScore": 3,
+      "date": "2026-04-23T19:00+02:00",
+      "arena": "Eleda Stadion",
+      "attendance": 18535,
+      "round": 4
+    },
+    {
+      "matchId": 6529858,
+      "home": "Degerfors IF",
+      "homeScore": 2,
+      "away": "AIK",
+      "awayScore": 1,
+      "date": "2026-04-23T19:00+02:00",
+      "arena": "Stora Valla A-plan",
+      "attendance": 5449,
+      "round": 4
+    },
+    {
+      "matchId": 6529860,
+      "home": "Kalmar FF",
+      "homeScore": 1,
+      "away": "IFK Göteborg",
+      "awayScore": 1,
+      "date": "2026-04-23T19:00+02:00",
+      "arena": "Guldfågeln Arena, Kalmar",
+      "attendance": 4896,
+      "round": 4
+    },
+    {
+      "matchId": 6529862,
+      "home": "Djurgården",
+      "homeScore": 1,
+      "away": "Hammarby",
+      "awayScore": 1,
+      "date": "2026-04-26T14:00+02:00",
+      "arena": "3Arena",
+      "attendance": 26775,
+      "round": 5
+    },
+    {
+      "matchId": 6529863,
+      "home": "IFK Göteborg",
+      "homeScore": 2,
+      "away": "GAIS",
+      "awayScore": 2,
+      "date": "2026-04-26T16:30+02:00",
+      "arena": "Gamla Ullevi",
+      "attendance": 18084,
+      "round": 5
+    },
+    {
+      "matchId": 6529867,
+      "home": "IF Brommapojkarna",
+      "homeScore": 1,
+      "away": "Västerås SK FK",
+      "awayScore": 2,
+      "date": "2026-04-26T16:30+02:00",
+      "arena": "Grimsta IP 1",
+      "attendance": 1631,
+      "round": 5
+    },
+    {
+      "matchId": 6529861,
+      "home": "AIK",
+      "homeScore": 0,
+      "away": "Malmö FF",
+      "awayScore": 1,
+      "date": "2026-04-27T19:00+02:00",
+      "arena": "Nationalarenan, Strawberry Arena",
+      "attendance": 30492,
+      "round": 5
+    },
+    {
+      "matchId": 6529864,
+      "home": "Örgryte IS Fotboll",
+      "homeScore": 1,
+      "away": "Degerfors IF",
+      "awayScore": 1,
+      "date": "2026-04-27T19:00+02:00",
+      "arena": "Gamla Ullevi",
+      "attendance": 4928,
+      "round": 5
+    },
+    {
+      "matchId": 6529865,
+      "home": "BK Häcken",
+      "homeScore": 2,
+      "away": "IK Sirius FK",
+      "awayScore": 2,
+      "date": "2026-04-27T19:00+02:00",
+      "arena": "Nordic Wellness Arena",
+      "attendance": 3504,
+      "round": 5
+    },
+    {
+      "matchId": 6529866,
+      "home": "Mjällby AIF",
+      "homeScore": 2,
+      "away": "Halmstad",
+      "awayScore": 0,
+      "date": "2026-04-27T19:00+02:00",
+      "arena": "Strandvallen A-plan",
+      "attendance": 3573,
+      "round": 5
+    },
+    {
+      "matchId": 6529868,
+      "home": "Kalmar FF",
+      "homeScore": 2,
+      "away": "IF Elfsborg",
+      "awayScore": 1,
+      "date": "2026-04-27T19:00+02:00",
+      "arena": "Guldfågeln Arena, Kalmar",
+      "attendance": 4134,
+      "round": 5
+    },
+    {
+      "matchId": 6529874,
+      "home": "Degerfors IF",
+      "homeScore": 1,
+      "away": "BK Häcken",
+      "awayScore": 1,
+      "date": "2026-05-02T15:00+02:00",
+      "arena": "Stora Valla A-plan",
+      "attendance": 4243,
+      "round": 6
+    },
+    {
+      "matchId": 6529875,
+      "home": "IK Sirius FK",
+      "homeScore": 3,
+      "away": "Kalmar FF",
+      "awayScore": 2,
+      "date": "2026-05-02T15:00+02:00",
+      "arena": "Studenternas",
+      "attendance": 8780,
+      "round": 6
+    },
+    {
+      "matchId": 6529870,
+      "home": "Hammarby",
+      "homeScore": 3,
+      "away": "Västerås SK FK",
+      "awayScore": 0,
+      "date": "2026-05-03T14:00+02:00",
+      "arena": "3Arena",
+      "attendance": 26751,
+      "round": 6
+    },
+    {
+      "matchId": 6529872,
+      "home": "Malmö FF",
+      "homeScore": 2,
+      "away": "Mjällby AIF",
+      "awayScore": 3,
+      "date": "2026-05-03T14:00+02:00",
+      "arena": "Eleda Stadion",
+      "attendance": 19905,
+      "round": 6
+    },
+    {
+      "matchId": 6529871,
+      "home": "GAIS",
+      "homeScore": 4,
+      "away": "Örgryte IS Fotboll",
+      "awayScore": 0,
+      "date": "2026-05-03T16:30+02:00",
+      "arena": "Gamla Ullevi",
+      "attendance": 16470,
+      "round": 6
+    },
+    {
+      "matchId": 6529873,
+      "home": "IF Elfsborg",
+      "homeScore": 1,
+      "away": "AIK",
+      "awayScore": 1,
+      "date": "2026-05-03T16:30+02:00",
+      "arena": "Borås Arena",
+      "attendance": 10112,
+      "round": 6
+    },
+    {
+      "matchId": 6529869,
+      "home": "Djurgården",
+      "homeScore": 6,
+      "away": "IFK Göteborg",
+      "awayScore": 0,
+      "date": "2026-05-04T19:00+02:00",
+      "arena": "3Arena",
+      "attendance": 20415,
+      "round": 6
+    },
+    {
+      "matchId": 6529876,
+      "home": "Halmstad",
+      "homeScore": 1,
+      "away": "IF Brommapojkarna",
+      "awayScore": 3,
+      "date": "2026-05-04T19:00+02:00",
+      "arena": "Örjans Vall",
+      "attendance": 3305,
+      "round": 6
+    },
+    {
+      "matchId": 6529880,
+      "home": "IF Elfsborg",
+      "homeScore": 2,
+      "away": "IF Brommapojkarna",
+      "awayScore": 0,
+      "date": "2026-05-08T19:00+02:00",
+      "arena": "Borås Arena",
+      "attendance": 6487,
+      "round": 7
+    },
+    {
+      "matchId": 6529878,
+      "home": "IFK Göteborg",
+      "homeScore": 0,
+      "away": "Hammarby",
+      "awayScore": 1,
+      "date": "2026-05-09T15:00+02:00",
+      "arena": "Gamla Ullevi",
+      "attendance": 16281,
+      "round": 7
+    },
+    {
+      "matchId": 6529881,
+      "home": "Degerfors IF",
+      "homeScore": 1,
+      "away": "Mjällby AIF",
+      "awayScore": 4,
+      "date": "2026-05-09T15:00+02:00",
+      "arena": "Stora Valla A-plan",
+      "attendance": 3636,
+      "round": 7
+    },
+    {
+      "matchId": 6529883,
+      "home": "Västerås SK FK",
+      "homeScore": 0,
+      "away": "GAIS",
+      "awayScore": 1,
+      "date": "2026-05-09T15:00+02:00",
+      "arena": "Hitachi Energy Arena",
+      "attendance": 6863,
+      "round": 7
+    },
+    {
+      "matchId": 6529877,
+      "home": "AIK",
+      "homeScore": 2,
+      "away": "Djurgården",
+      "awayScore": 4,
+      "date": "2026-05-10T14:00+02:00",
+      "arena": "Nationalarenan, Strawberry Arena",
+      "attendance": 46278,
+      "round": 7
+    },
+    {
+      "matchId": 6529884,
+      "home": "Kalmar FF",
+      "homeScore": 2,
+      "away": "Halmstad",
+      "awayScore": 0,
+      "date": "2026-05-10T14:00+02:00",
+      "arena": "Guldfågeln Arena, Kalmar",
+      "attendance": 4280,
+      "round": 7
+    },
+    {
+      "matchId": 6529879,
+      "home": "BK Häcken",
+      "homeScore": 3,
+      "away": "Malmö FF",
+      "awayScore": 2,
+      "date": "2026-05-10T16:30+02:00",
+      "arena": "Nordic Wellness Arena",
+      "attendance": 6163,
+      "round": 7
+    },
+    {
+      "matchId": 6529882,
+      "home": "IK Sirius FK",
+      "homeScore": 2,
+      "away": "Örgryte IS Fotboll",
+      "awayScore": 0,
+      "date": "2026-05-11T19:00+02:00",
+      "arena": "Studenternas",
+      "attendance": 8609,
+      "round": 7
+    },
+    {
+      "matchId": 6529887,
+      "home": "GAIS",
+      "homeScore": 1,
+      "away": "Degerfors IF",
+      "awayScore": 1,
+      "date": "2026-05-16T15:00+02:00",
+      "arena": "Gamla Ullevi",
+      "attendance": 8829,
+      "round": 8
+    },
+    {
+      "matchId": 6529892,
+      "home": "Halmstad",
+      "homeScore": 1,
+      "away": "IF Elfsborg",
+      "awayScore": 1,
+      "date": "2026-05-16T15:00+02:00",
+      "arena": "Örjans Vall",
+      "attendance": 5936,
+      "round": 8
+    },
+    {
+      "matchId": 6529886,
+      "home": "Hammarby",
+      "homeScore": 4,
+      "away": "Malmö FF",
+      "awayScore": 1,
+      "date": "2026-05-17T14:00+02:00",
+      "arena": "3Arena",
+      "attendance": 25793,
+      "round": 8
+    },
+    {
+      "matchId": 6529890,
+      "home": "IF Brommapojkarna",
+      "homeScore": 1,
+      "away": "Kalmar FF",
+      "awayScore": 0,
+      "date": "2026-05-17T14:00+02:00",
+      "arena": "Grimsta IP 1",
+      "attendance": 817,
+      "round": 8
+    },
+    {
+      "matchId": 6529889,
+      "home": "Mjällby AIF",
+      "homeScore": 0,
+      "away": "BK Häcken",
+      "awayScore": 1,
+      "date": "2026-05-17T16:30+02:00",
+      "arena": "Strandvallen A-plan",
+      "attendance": 5019,
+      "round": 8
+    },
+    {
+      "matchId": 6529891,
+      "home": "Västerås SK FK",
+      "homeScore": 1,
+      "away": "AIK",
+      "awayScore": 1,
+      "date": "2026-05-17T16:30+02:00",
+      "arena": "Hitachi Energy Arena",
+      "attendance": 8619,
+      "round": 8
+    },
+    {
+      "matchId": 6529885,
+      "home": "Djurgården",
+      "homeScore": 2,
+      "away": "IK Sirius FK",
+      "awayScore": 3,
+      "date": "2026-05-18T19:00+02:00",
+      "arena": "3Arena",
+      "attendance": 23636,
+      "round": 8
+    },
+    {
+      "matchId": 6529888,
+      "home": "Örgryte IS Fotboll",
+      "homeScore": 2,
+      "away": "IFK Göteborg",
+      "awayScore": 3,
+      "date": "2026-05-19T15:00+02:00",
+      "arena": "Gamla Ullevi",
+      "attendance": 17119,
+      "round": 8
+    },
+    {
+      "matchId": 6529893,
+      "home": "Djurgården",
+      "homeScore": 1,
+      "away": "IF Brommapojkarna",
+      "awayScore": 2,
+      "date": "2026-05-22T19:00+02:00",
+      "arena": "3Arena",
+      "attendance": 21836,
+      "round": 9
+    },
+    {
+      "matchId": 6529899,
+      "home": "Kalmar FF",
+      "homeScore": 2,
+      "away": "Degerfors IF",
+      "awayScore": 1,
+      "date": "2026-05-23T15:00+02:00",
+      "arena": "Guldfågeln Arena, Kalmar",
+      "attendance": 4014,
+      "round": 9
+    },
+    {
+      "matchId": 6529900,
+      "home": "Halmstad",
+      "homeScore": 2,
+      "away": "Örgryte IS Fotboll",
+      "awayScore": 0,
+      "date": "2026-05-23T15:00+02:00",
+      "arena": "Örjans Vall",
+      "attendance": 4576,
+      "round": 9
+    },
+    {
+      "matchId": 6529894,
+      "home": "Hammarby",
+      "homeScore": 1,
+      "away": "AIK",
+      "awayScore": 2,
+      "date": "2026-05-24T14:00+02:00",
+      "arena": "3Arena",
+      "attendance": 28783,
+      "round": 9
+    },
+    {
+      "matchId": 6529898,
+      "home": "IK Sirius FK",
+      "homeScore": 2,
+      "away": "GAIS",
+      "awayScore": 1,
+      "date": "2026-05-24T14:00+02:00",
+      "arena": "Studenternas",
+      "attendance": 9008,
+      "round": 9
+    },
+    {
+      "matchId": 6529896,
+      "home": "Malmö FF",
+      "homeScore": 2,
+      "away": "Västerås SK FK",
+      "awayScore": 3,
+      "date": "2026-05-24T16:30+02:00",
+      "arena": "Eleda Stadion",
+      "attendance": 17703,
+      "round": 9
+    },
+    {
+      "matchId": 6529895,
+      "home": "IFK Göteborg",
+      "homeScore": 1,
+      "away": "Mjällby AIF",
+      "awayScore": 1,
+      "date": "2026-05-25T19:00+02:00",
+      "arena": "Gamla Ullevi",
+      "attendance": 16653,
+      "round": 9
+    },
+    {
+      "matchId": 6529897,
+      "home": "IF Elfsborg",
+      "homeScore": 1,
+      "away": "BK Häcken",
+      "awayScore": 1,
+      "date": "2026-05-25T19:00+02:00",
+      "arena": "Borås Arena",
+      "attendance": 7152,
+      "round": 9
+    },
+    {
+      "matchId": 6529903,
+      "home": "Örgryte IS Fotboll",
+      "homeScore": 2,
+      "away": "IF Elfsborg",
+      "awayScore": 2,
+      "date": "2026-05-29T19:00+02:00",
+      "arena": "Gamla Ullevi",
+      "attendance": 7359,
+      "round": 10
+    },
+    {
+      "matchId": 6529901,
+      "home": "AIK",
+      "homeScore": 0,
+      "away": "IK Sirius FK",
+      "awayScore": 3,
+      "date": "2026-05-30T15:00+02:00",
+      "arena": "Nationalarenan, Strawberry Arena",
+      "attendance": 28283,
+      "round": 10
+    },
+    {
+      "matchId": 6529902,
+      "home": "GAIS",
+      "homeScore": 3,
+      "away": "Kalmar FF",
+      "awayScore": 0,
+      "date": "2026-05-30T15:00+02:00",
+      "arena": "Gamla Ullevi",
+      "attendance": 8125,
+      "round": 10
+    },
+    {
+      "matchId": 6529906,
+      "home": "Malmö FF",
+      "homeScore": 5,
+      "away": "Halmstad",
+      "awayScore": 2,
+      "date": "2026-05-30T15:00+02:00",
+      "arena": "Eleda Stadion",
+      "attendance": 17052,
+      "round": 10
+    },
+    {
+      "matchId": 6529904,
+      "home": "BK Häcken",
+      "homeScore": 3,
+      "away": "Hammarby",
+      "awayScore": 2,
+      "date": "2026-05-31T14:00+02:00",
+      "arena": "Nordic Wellness Arena",
+      "attendance": 6316,
+      "round": 10
+    },
+    {
+      "matchId": 6529907,
+      "home": "Degerfors IF",
+      "homeScore": 2,
+      "away": "IF Brommapojkarna",
+      "awayScore": 2,
+      "date": "2026-05-31T14:00+02:00",
+      "arena": "Stora Valla A-plan",
+      "attendance": 3002,
+      "round": 10
+    },
+    {
+      "matchId": 6529908,
+      "home": "Västerås SK FK",
+      "homeScore": 4,
+      "away": "IFK Göteborg",
+      "awayScore": 5,
+      "date": "2026-05-31T14:00+02:00",
+      "arena": "Hitachi Energy Arena",
+      "attendance": 7656,
+      "round": 10
+    },
+    {
+      "matchId": 6529905,
+      "home": "Mjällby AIF",
+      "away": "Djurgården",
+      "date": "2026-09-03T19:00+02:00",
+      "arena": "Strandvallen A-plan",
+      "round": 10
+    },
+    {
+      "matchId": 6529914,
+      "home": "IK Sirius FK",
+      "away": "Mjällby AIF",
+      "date": "2026-07-03T19:00+02:00",
+      "arena": "Studenternas",
+      "round": 11
+    },
+    {
+      "matchId": 6529913,
+      "home": "Degerfors IF",
+      "away": "Malmö FF",
+      "date": "2026-07-04T15:00+02:00",
+      "arena": "Stora Valla A-plan",
+      "round": 11
+    },
+    {
+      "matchId": 6529916,
+      "home": "Halmstad",
+      "away": "Västerås SK FK",
+      "date": "2026-07-04T15:00+02:00",
+      "arena": "Örjans Vall",
+      "round": 11
+    },
+    {
+      "matchId": 6529909,
+      "home": "IFK Göteborg",
+      "away": "AIK",
+      "date": "2026-07-05T14:00+02:00",
+      "arena": "Gamla Ullevi",
+      "round": 11
+    },
+    {
+      "matchId": 6529915,
+      "home": "Kalmar FF",
+      "away": "Örgryte IS Fotboll",
+      "date": "2026-07-05T14:00+02:00",
+      "arena": "Guldfågeln Arena, Kalmar",
+      "round": 11
+    },
+    {
+      "matchId": 6529911,
+      "home": "IF Elfsborg",
+      "away": "Hammarby",
+      "date": "2026-07-05T16:30+02:00",
+      "arena": "Borås Arena",
+      "round": 11
+    },
+    {
+      "matchId": 6529910,
+      "home": "BK Häcken",
+      "away": "Djurgården",
+      "date": "2026-07-06T19:00+02:00",
+      "arena": "Nordic Wellness Arena",
+      "round": 11
+    },
+    {
+      "matchId": 6529912,
+      "home": "IF Brommapojkarna",
+      "away": "GAIS",
+      "date": "2026-07-06T19:00+02:00",
+      "arena": "Grimsta IP 1",
+      "round": 11
+    },
+    {
+      "matchId": 6529921,
+      "home": "Mjällby AIF",
+      "away": "AIK",
+      "date": "2026-07-11T15:00+02:00",
+      "arena": "Strandvallen A-plan",
+      "round": 12
+    },
+    {
+      "matchId": 6529920,
+      "home": "Örgryte IS Fotboll",
+      "away": "BK Häcken",
+      "date": "2026-07-11T17:30+02:00",
+      "arena": "Gamla Ullevi",
+      "round": 12
+    },
+    {
+      "matchId": 6529918,
+      "home": "Hammarby",
+      "away": "Kalmar FF",
+      "date": "2026-07-12T14:00+02:00",
+      "arena": "3Arena",
+      "round": 12
+    },
+    {
+      "matchId": 6529922,
+      "home": "Malmö FF",
+      "away": "IFK Göteborg",
+      "date": "2026-07-12T14:00+02:00",
+      "arena": "Eleda Stadion",
+      "round": 12
+    },
+    {
+      "matchId": 6529924,
+      "home": "Västerås SK FK",
+      "away": "Degerfors IF",
+      "date": "2026-07-12T14:00+02:00",
+      "arena": "Hitachi Energy Arena",
+      "round": 12
+    },
+    {
+      "matchId": 6529919,
+      "home": "GAIS",
+      "away": "IF Elfsborg",
+      "date": "2026-07-12T16:30+02:00",
+      "arena": "Gamla Ullevi",
+      "round": 12
+    },
+    {
+      "matchId": 6529923,
+      "home": "IF Brommapojkarna",
+      "away": "IK Sirius FK",
+      "date": "2026-07-12T16:30+02:00",
+      "arena": "Grimsta IP 1",
+      "round": 12
+    },
+    {
+      "matchId": 6529917,
+      "home": "Djurgården",
+      "away": "Halmstad",
+      "date": "2026-07-13T19:00+02:00",
+      "arena": "3Arena",
+      "round": 12
+    },
+    {
+      "matchId": 6529929,
+      "home": "Mjällby AIF",
+      "away": "Västerås SK FK",
+      "date": "2026-07-17T19:00+02:00",
+      "arena": "Strandvallen A-plan",
+      "round": 13
+    },
+    {
+      "matchId": 6529925,
+      "home": "AIK",
+      "away": "GAIS",
+      "date": "2026-07-18T15:00+02:00",
+      "arena": "Nationalarenan, Strawberry Arena",
+      "round": 13
+    },
+    {
+      "matchId": 6529927,
+      "home": "IFK Göteborg",
+      "away": "IF Brommapojkarna",
+      "date": "2026-07-19T14:00+02:00",
+      "arena": "Gamla Ullevi",
+      "round": 13
+    },
+    {
+      "matchId": 6529926,
+      "home": "Hammarby",
+      "away": "Degerfors IF",
+      "date": "2026-07-19T16:30+02:00",
+      "arena": "3Arena",
+      "round": 13
+    },
+    {
+      "matchId": 6529930,
+      "home": "IF Elfsborg",
+      "away": "IK Sirius FK",
+      "date": "2026-07-19T16:30+02:00",
+      "arena": "Borås Arena",
+      "round": 13
+    },
+    {
+      "matchId": 6529932,
+      "home": "Halmstad",
+      "away": "BK Häcken",
+      "date": "2026-07-19T16:30+02:00",
+      "arena": "Örjans Vall",
+      "round": 13
+    },
+    {
+      "matchId": 6529928,
+      "home": "Örgryte IS Fotboll",
+      "away": "Djurgården",
+      "date": "2026-07-20T19:00+02:00",
+      "arena": "Gamla Ullevi",
+      "round": 13
+    },
+    {
+      "matchId": 6529931,
+      "home": "Kalmar FF",
+      "away": "Malmö FF",
+      "date": "2026-07-20T19:00+02:00",
+      "arena": "Guldfågeln Arena, Kalmar",
+      "round": 13
+    },
+    {
+      "matchId": 6529939,
+      "home": "Västerås SK FK",
+      "away": "Örgryte IS Fotboll",
+      "date": "2026-07-24T19:00+02:00",
+      "arena": "Hitachi Energy Arena",
+      "round": 14
+    },
+    {
+      "matchId": 6529937,
+      "home": "Degerfors IF",
+      "away": "Djurgården",
+      "date": "2026-07-25T15:00+02:00",
+      "arena": "Stora Valla A-plan",
+      "round": 14
+    },
+    {
+      "matchId": 6529940,
+      "home": "Kalmar FF",
+      "away": "Mjällby AIF",
+      "date": "2026-07-25T17:30+02:00",
+      "arena": "Guldfågeln Arena, Kalmar",
+      "round": 14
+    },
+    {
+      "matchId": 6529936,
+      "home": "IF Brommapojkarna",
+      "away": "Hammarby",
+      "date": "2026-07-26T14:00+02:00",
+      "arena": "Grimsta IP 1",
+      "round": 14
+    },
+    {
+      "matchId": 6529938,
+      "home": "IK Sirius FK",
+      "away": "IFK Göteborg",
+      "date": "2026-07-26T14:00+02:00",
+      "arena": "Studenternas",
+      "round": 14
+    },
+    {
+      "matchId": 6529933,
+      "home": "GAIS",
+      "away": "Halmstad",
+      "date": "2026-07-26T16:30+02:00",
+      "arena": "Gamla Ullevi",
+      "round": 14
+    },
+    {
+      "matchId": 6529935,
+      "home": "Malmö FF",
+      "away": "IF Elfsborg",
+      "date": "2026-07-26T16:30+02:00",
+      "arena": "Eleda Stadion",
+      "round": 14
+    },
+    {
+      "matchId": 6529934,
+      "home": "BK Häcken",
+      "away": "AIK",
+      "date": "2026-07-27T19:00+02:00",
+      "arena": "Nordic Wellness Arena",
+      "round": 14
+    },
+    {
+      "matchId": 6529944,
+      "home": "GAIS",
+      "homeScore": 2,
+      "away": "Hammarby",
+      "awayScore": 0,
+      "date": "2026-05-20T19:00+02:00",
+      "arena": "Gamla Ullevi",
+      "attendance": 10153,
+      "round": 15
+    },
+    {
+      "matchId": 6529946,
+      "home": "IF Elfsborg",
+      "homeScore": 1,
+      "away": "Mjällby AIF",
+      "awayScore": 1,
+      "date": "2026-05-21T19:00+02:00",
+      "arena": "Borås Arena",
+      "attendance": 5818,
+      "round": 15
+    },
+    {
+      "matchId": 6529945,
+      "home": "BK Häcken",
+      "away": "Kalmar FF",
+      "date": "2026-08-01T15:00+02:00",
+      "arena": "Nordic Wellness Arena",
+      "round": 15
+    },
+    {
+      "matchId": 6529943,
+      "home": "IFK Göteborg",
+      "away": "Degerfors IF",
+      "date": "2026-08-02T14:00+02:00",
+      "arena": "Gamla Ullevi",
+      "round": 15
+    },
+    {
+      "matchId": 6529947,
+      "home": "IF Brommapojkarna",
+      "away": "Malmö FF",
+      "date": "2026-08-02T14:00+02:00",
+      "arena": "Grimsta IP 1",
+      "round": 15
+    },
+    {
+      "matchId": 6529941,
+      "home": "AIK",
+      "away": "Örgryte IS Fotboll",
+      "date": "2026-08-02T16:30+02:00",
+      "arena": "Nationalarenan, Strawberry Arena",
+      "round": 15
+    },
+    {
+      "matchId": 6529942,
+      "home": "Djurgården",
+      "away": "Västerås SK FK",
+      "date": "2026-08-03T19:00+02:00",
+      "arena": "3Arena",
+      "round": 15
+    },
+    {
+      "matchId": 6529948,
+      "home": "Halmstad",
+      "away": "IK Sirius FK",
+      "date": "2026-08-03T19:00+02:00",
+      "arena": "Örjans Vall",
+      "round": 15
+    },
+    {
+      "matchId": 6529951,
+      "home": "Örgryte IS Fotboll",
+      "away": "AIK",
+      "date": "2026-08-08T15:00+02:00",
+      "arena": "Gamla Ullevi",
+      "round": 16
+    },
+    {
+      "matchId": 6529952,
+      "home": "Mjällby AIF",
+      "away": "IF Elfsborg",
+      "date": "2026-08-08T17:30+02:00",
+      "arena": "Strandvallen A-plan",
+      "round": 16
+    },
+    {
+      "matchId": 6529949,
+      "home": "Hammarby",
+      "away": "BK Häcken",
+      "date": "2026-08-09T14:00+02:00",
+      "arena": "3Arena",
+      "round": 16
+    },
+    {
+      "matchId": 6529953,
+      "home": "Malmö FF",
+      "away": "Degerfors IF",
+      "date": "2026-08-09T14:00+02:00",
+      "arena": "Eleda Stadion",
+      "round": 16
+    },
+    {
+      "matchId": 6529950,
+      "home": "IFK Göteborg",
+      "away": "Kalmar FF",
+      "date": "2026-08-09T16:30+02:00",
+      "arena": "Gamla Ullevi",
+      "round": 16
+    },
+    {
+      "matchId": 6529956,
+      "home": "Halmstad",
+      "away": "GAIS",
+      "date": "2026-08-09T16:30+02:00",
+      "arena": "Örjans Vall",
+      "round": 16
+    },
+    {
+      "matchId": 6529954,
+      "home": "IK Sirius FK",
+      "away": "IF Brommapojkarna",
+      "date": "2026-08-10T19:00+02:00",
+      "arena": "Studenternas",
+      "round": 16
+    },
+    {
+      "matchId": 6529955,
+      "home": "Västerås SK FK",
+      "away": "Djurgården",
+      "date": "2026-08-10T19:00+02:00",
+      "arena": "Hitachi Energy Arena",
+      "round": 16
+    },
+    {
+      "matchId": 6529961,
+      "home": "IF Elfsborg",
+      "away": "Västerås SK FK",
+      "date": "2026-08-14T19:00+02:00",
+      "arena": "Borås Arena",
+      "round": 17
+    },
+    {
+      "matchId": 6529960,
+      "home": "Mjällby AIF",
+      "away": "IK Sirius FK",
+      "date": "2026-08-15T15:00+02:00",
+      "arena": "Strandvallen A-plan",
+      "round": 17
+    },
+    {
+      "matchId": 6529957,
+      "home": "Djurgården",
+      "away": "AIK",
+      "date": "2026-08-16T14:00+02:00",
+      "arena": "3Arena",
+      "round": 17
+    },
+    {
+      "matchId": 6529962,
+      "home": "IF Brommapojkarna",
+      "away": "Örgryte IS Fotboll",
+      "date": "2026-08-16T14:00+02:00",
+      "arena": "Grimsta IP 1",
+      "round": 17
+    },
+    {
+      "matchId": 6529963,
+      "home": "Degerfors IF",
+      "away": "IFK Göteborg",
+      "date": "2026-08-16T14:00+02:00",
+      "arena": "Stora Valla A-plan",
+      "round": 17
+    },
+    {
+      "matchId": 6529958,
+      "home": "GAIS",
+      "away": "Malmö FF",
+      "date": "2026-08-16T16:30+02:00",
+      "arena": "Gamla Ullevi",
+      "round": 17
+    },
+    {
+      "matchId": 6529964,
+      "home": "Kalmar FF",
+      "away": "Hammarby",
+      "date": "2026-08-16T16:30+02:00",
+      "arena": "Guldfågeln Arena, Kalmar",
+      "round": 17
+    },
+    {
+      "matchId": 6529959,
+      "home": "BK Häcken",
+      "away": "Halmstad",
+      "date": "2026-08-17T19:00+02:00",
+      "arena": "Nordic Wellness Arena",
+      "round": 17
+    },
+    {
+      "matchId": 6529971,
+      "home": "IK Sirius FK",
+      "away": "BK Häcken",
+      "date": "2026-08-21T19:00+02:00",
+      "arena": "Studenternas",
+      "round": 18
+    },
+    {
+      "matchId": 6529968,
+      "home": "Örgryte IS Fotboll",
+      "away": "Halmstad",
+      "date": "2026-08-22T15:00+02:00",
+      "arena": "Gamla Ullevi",
+      "round": 18
+    },
+    {
+      "matchId": 6529967,
+      "home": "IFK Göteborg",
+      "away": "IF Elfsborg",
+      "date": "2026-08-23T14:00+02:00",
+      "arena": "Gamla Ullevi",
+      "round": 18
+    },
+    {
+      "matchId": 6529972,
+      "home": "Västerås SK FK",
+      "away": "Kalmar FF",
+      "date": "2026-08-23T14:00+02:00",
+      "arena": "Hitachi Energy Arena",
+      "round": 18
+    },
+    {
+      "matchId": 6529966,
+      "home": "Hammarby",
+      "away": "GAIS",
+      "date": "2026-08-23T16:30+02:00",
+      "arena": "3Arena",
+      "round": 18
+    },
+    {
+      "matchId": 6529970,
+      "home": "IF Brommapojkarna",
+      "away": "Degerfors IF",
+      "date": "2026-08-23T16:30+02:00",
+      "round": 18
+    },
+    {
+      "matchId": 6529969,
+      "home": "Malmö FF",
+      "away": "Djurgården",
+      "date": "2026-08-24T19:00+02:00",
+      "arena": "Eleda Stadion",
+      "round": 18
+    },
+    {
+      "matchId": 6529965,
+      "home": "AIK",
+      "away": "Mjällby AIF",
+      "date": "2026-09-16T19:00+02:00",
+      "arena": "Nationalarenan, Strawberry Arena",
+      "round": 18
+    },
+    {
+      "matchId": 6529977,
+      "home": "BK Häcken",
+      "away": "Västerås SK FK",
+      "date": "2026-08-29T15:00+02:00",
+      "arena": "Nordic Wellness Arena",
+      "round": 19
+    },
+    {
+      "matchId": 6529978,
+      "home": "IF Elfsborg",
+      "away": "Degerfors IF",
+      "date": "2026-08-29T15:00+02:00",
+      "arena": "Borås Arena",
+      "round": 19
+    },
+    {
+      "matchId": 6529980,
+      "home": "Halmstad",
+      "away": "Kalmar FF",
+      "date": "2026-08-29T17:30+02:00",
+      "arena": "Örjans Vall",
+      "round": 19
+    },
+    {
+      "matchId": 6529973,
+      "home": "AIK",
+      "away": "Hammarby",
+      "date": "2026-08-30T14:00+02:00",
+      "arena": "Nationalarenan, Strawberry Arena",
+      "round": 19
+    },
+    {
+      "matchId": 6529975,
+      "home": "IFK Göteborg",
+      "away": "Örgryte IS Fotboll",
+      "date": "2026-08-30T16:30+02:00",
+      "arena": "Gamla Ullevi",
+      "round": 19
+    },
+    {
+      "matchId": 6529974,
+      "home": "Djurgården",
+      "away": "Mjällby AIF",
+      "date": "2026-08-31T19:00+02:00",
+      "arena": "3Arena",
+      "round": 19
+    },
+    {
+      "matchId": 6529976,
+      "home": "GAIS",
+      "away": "IF Brommapojkarna",
+      "date": "2026-08-31T19:00+02:00",
+      "arena": "Gamla Ullevi",
+      "round": 19
+    },
+    {
+      "matchId": 6529979,
+      "home": "IK Sirius FK",
+      "away": "Malmö FF",
+      "date": "2026-08-31T19:00+02:00",
+      "arena": "Studenternas",
+      "round": 19
+    },
+    {
+      "matchId": 6529981,
+      "home": "GAIS",
+      "away": "BK Häcken",
+      "date": "2026-09-05T15:00+02:00",
+      "arena": "Gamla Ullevi",
+      "round": 20
+    },
+    {
+      "matchId": 6529986,
+      "home": "Degerfors IF",
+      "away": "Halmstad",
+      "date": "2026-09-05T15:00+02:00",
+      "arena": "Stora Valla B-plan",
+      "round": 20
+    },
+    {
+      "matchId": 6529987,
+      "home": "Västerås SK FK",
+      "away": "IK Sirius FK",
+      "date": "2026-09-05T17:30+02:00",
+      "arena": "Hitachi Energy Arena",
+      "round": 20
+    },
+    {
+      "matchId": 6529982,
+      "home": "Örgryte IS Fotboll",
+      "away": "Hammarby",
+      "date": "2026-09-06T14:00+02:00",
+      "arena": "Gamla Ullevi",
+      "round": 20
+    },
+    {
+      "matchId": 6529985,
+      "home": "IF Brommapojkarna",
+      "away": "IF Elfsborg",
+      "date": "2026-09-06T16:30+02:00",
+      "round": 20
+    },
+    {
+      "matchId": 6529983,
+      "home": "Mjällby AIF",
+      "away": "IFK Göteborg",
+      "date": "2026-09-07T19:00+02:00",
+      "arena": "Strandvallen A-plan",
+      "round": 20
+    },
+    {
+      "matchId": 6529984,
+      "home": "Malmö FF",
+      "away": "AIK",
+      "date": "2026-09-07T19:00+02:00",
+      "arena": "Eleda Stadion",
+      "round": 20
+    },
+    {
+      "matchId": 6529988,
+      "home": "Kalmar FF",
+      "away": "Djurgården",
+      "date": "2026-09-07T19:00+02:00",
+      "arena": "Guldfågeln Arena, Kalmar",
+      "round": 20
+    },
+    {
+      "matchId": 6529993,
+      "home": "BK Häcken",
+      "away": "Mjällby AIF",
+      "date": "2026-09-11T19:00+02:00",
+      "arena": "Nordic Wellness Arena",
+      "round": 21
+    },
+    {
+      "matchId": 6529989,
+      "home": "AIK",
+      "away": "Västerås SK FK",
+      "date": "2026-09-12T15:00+02:00",
+      "arena": "Nationalarenan, Strawberry Arena",
+      "round": 21
+    },
+    {
+      "matchId": 6529992,
+      "home": "IFK Göteborg",
+      "away": "Halmstad",
+      "date": "2026-09-12T17:30+02:00",
+      "arena": "Gamla Ullevi",
+      "round": 21
+    },
+    {
+      "matchId": 6529991,
+      "home": "Hammarby",
+      "away": "IF Brommapojkarna",
+      "date": "2026-09-13T14:00+02:00",
+      "arena": "3Arena",
+      "round": 21
+    },
+    {
+      "matchId": 6529995,
+      "home": "IF Elfsborg",
+      "away": "Kalmar FF",
+      "date": "2026-09-13T14:00+02:00",
+      "arena": "Borås Arena",
+      "round": 21
+    },
+    {
+      "matchId": 6529994,
+      "home": "Malmö FF",
+      "away": "Örgryte IS Fotboll",
+      "date": "2026-09-13T16:30+02:00",
+      "arena": "Eleda Stadion",
+      "round": 21
+    },
+    {
+      "matchId": 6529990,
+      "home": "Djurgården",
+      "away": "GAIS",
+      "date": "2026-09-14T19:00+02:00",
+      "arena": "3Arena",
+      "round": 21
+    },
+    {
+      "matchId": 6529996,
+      "home": "IK Sirius FK",
+      "away": "Degerfors IF",
+      "date": "2026-09-14T19:00+02:00",
+      "arena": "Studenternas",
+      "round": 21
+    },
+    {
+      "matchId": 6530000,
+      "home": "IF Brommapojkarna",
+      "away": "IFK Göteborg",
+      "date": "2026-09-19T15:00+02:00",
+      "arena": "Grimsta IP 1",
+      "round": 22
+    },
+    {
+      "matchId": 6530002,
+      "home": "Västerås SK FK",
+      "away": "Malmö FF",
+      "date": "2026-09-19T15:00+02:00",
+      "arena": "Hitachi Energy Arena",
+      "round": 22
+    },
+    {
+      "matchId": 6529998,
+      "home": "Örgryte IS Fotboll",
+      "away": "IK Sirius FK",
+      "date": "2026-09-19T17:30+02:00",
+      "arena": "Gamla Ullevi",
+      "round": 22
+    },
+    {
+      "matchId": 6529997,
+      "home": "Djurgården",
+      "away": "IF Elfsborg",
+      "date": "2026-09-20T14:00+02:00",
+      "arena": "3Arena",
+      "round": 22
+    },
+    {
+      "matchId": 6530003,
+      "home": "Kalmar FF",
+      "away": "BK Häcken",
+      "date": "2026-09-20T14:00+02:00",
+      "arena": "Guldfågeln Arena, Kalmar",
+      "round": 22
+    },
+    {
+      "matchId": 6530004,
+      "home": "Halmstad",
+      "away": "AIK",
+      "date": "2026-09-20T14:00+02:00",
+      "arena": "Örjans Vall",
+      "round": 22
+    },
+    {
+      "matchId": 6529999,
+      "home": "Mjällby AIF",
+      "away": "GAIS",
+      "date": "2026-09-20T16:30+02:00",
+      "arena": "Strandvallen A-plan",
+      "round": 22
+    },
+    {
+      "matchId": 6530001,
+      "home": "Degerfors IF",
+      "away": "Hammarby",
+      "date": "2026-09-20T16:30+02:00",
+      "arena": "Stora Valla A-plan",
+      "round": 22
+    },
+    {
+      "matchId": 6530007,
+      "home": "IFK Göteborg",
+      "away": "Västerås SK FK",
+      "date": "2026-10-09T19:00+02:00",
+      "arena": "Gamla Ullevi",
+      "round": 23
+    },
+    {
+      "matchId": 6530005,
+      "home": "AIK",
+      "away": "IF Brommapojkarna",
+      "date": "2026-10-10T15:00+02:00",
+      "arena": "Nationalarenan, Strawberry Arena",
+      "round": 23
+    },
+    {
+      "matchId": 6530008,
+      "home": "GAIS",
+      "away": "IK Sirius FK",
+      "date": "2026-10-10T15:00+02:00",
+      "arena": "Gamla Ullevi",
+      "round": 23
+    },
+    {
+      "matchId": 6530010,
+      "home": "Mjällby AIF",
+      "away": "Degerfors IF",
+      "date": "2026-10-10T17:30+02:00",
+      "arena": "Strandvallen A-plan",
+      "round": 23
+    },
+    {
+      "matchId": 6530006,
+      "home": "Hammarby",
+      "away": "Djurgården",
+      "date": "2026-10-11T14:00+02:00",
+      "arena": "3Arena",
+      "round": 23
+    },
+    {
+      "matchId": 6530009,
+      "home": "BK Häcken",
+      "away": "Örgryte IS Fotboll",
+      "date": "2026-10-11T16:30+02:00",
+      "arena": "Nordic Wellness Arena",
+      "round": 23
+    },
+    {
+      "matchId": 6530011,
+      "home": "Malmö FF",
+      "away": "Kalmar FF",
+      "date": "2026-10-12T19:00+02:00",
+      "arena": "Eleda Stadion",
+      "round": 23
+    },
+    {
+      "matchId": 6530012,
+      "home": "IF Elfsborg",
+      "away": "Halmstad",
+      "date": "2026-10-12T19:00+02:00",
+      "arena": "Borås Arena",
+      "round": 23
+    },
+    {
+      "matchId": 6530013,
+      "home": "AIK",
+      "away": "IFK Göteborg",
+      "date": "2026-10-18T00:00+02:00",
+      "arena": "Nationalarenan, Strawberry Arena",
+      "round": 24
+    },
+    {
+      "matchId": 6530014,
+      "home": "Örgryte IS Fotboll",
+      "away": "GAIS",
+      "date": "2026-10-18T00:00+02:00",
+      "arena": "Gamla Ullevi",
+      "round": 24
+    },
+    {
+      "matchId": 6530015,
+      "home": "Malmö FF",
+      "away": "BK Häcken",
+      "date": "2026-10-18T00:00+02:00",
+      "arena": "Eleda Stadion",
+      "round": 24
+    },
+    {
+      "matchId": 6530016,
+      "home": "IF Brommapojkarna",
+      "away": "Djurgården",
+      "date": "2026-10-18T00:00+02:00",
+      "arena": "Grimsta IP 1",
+      "round": 24
+    },
+    {
+      "matchId": 6530017,
+      "home": "Degerfors IF",
+      "away": "Kalmar FF",
+      "date": "2026-10-18T00:00+02:00",
+      "arena": "Stora Valla A-plan",
+      "round": 24
+    },
+    {
+      "matchId": 6530018,
+      "home": "IK Sirius FK",
+      "away": "IF Elfsborg",
+      "date": "2026-10-18T00:00+02:00",
+      "arena": "Studenternas",
+      "round": 24
+    },
+    {
+      "matchId": 6530019,
+      "home": "Västerås SK FK",
+      "away": "Mjällby AIF",
+      "date": "2026-10-18T00:00+02:00",
+      "arena": "Hitachi Energy Arena",
+      "round": 24
+    },
+    {
+      "matchId": 6530020,
+      "home": "Halmstad",
+      "away": "Hammarby",
+      "date": "2026-10-18T00:00+02:00",
+      "arena": "Örjans Vall",
+      "round": 24
+    },
+    {
+      "matchId": 6530021,
+      "home": "Djurgården",
+      "away": "Örgryte IS Fotboll",
+      "date": "2026-10-25T00:00+02:00",
+      "arena": "3Arena",
+      "round": 25
+    },
+    {
+      "matchId": 6530022,
+      "home": "GAIS",
+      "away": "IFK Göteborg",
+      "date": "2026-10-25T00:00+02:00",
+      "arena": "Gamla Ullevi",
+      "round": 25
+    },
+    {
+      "matchId": 6530023,
+      "home": "BK Häcken",
+      "away": "Degerfors IF",
+      "date": "2026-10-25T00:00+02:00",
+      "arena": "Nordic Wellness Arena",
+      "round": 25
+    },
+    {
+      "matchId": 6530024,
+      "home": "Mjällby AIF",
+      "away": "Hammarby",
+      "date": "2026-10-25T00:00+02:00",
+      "arena": "Strandvallen A-plan",
+      "round": 25
+    },
+    {
+      "matchId": 6530025,
+      "home": "IF Elfsborg",
+      "away": "Malmö FF",
+      "date": "2026-10-25T00:00+02:00",
+      "arena": "Borås Arena",
+      "round": 25
+    },
+    {
+      "matchId": 6530026,
+      "home": "IK Sirius FK",
+      "away": "AIK",
+      "date": "2026-10-25T00:00+02:00",
+      "arena": "Studenternas",
+      "round": 25
+    },
+    {
+      "matchId": 6530027,
+      "home": "Västerås SK FK",
+      "away": "Halmstad",
+      "date": "2026-10-25T00:00+02:00",
+      "arena": "Hitachi Energy Arena",
+      "round": 25
+    },
+    {
+      "matchId": 6530028,
+      "home": "Kalmar FF",
+      "away": "IF Brommapojkarna",
+      "date": "2026-10-25T00:00+02:00",
+      "arena": "Guldfågeln Arena, Kalmar",
+      "round": 25
+    },
+    {
+      "matchId": 6530029,
+      "home": "AIK",
+      "away": "IF Elfsborg",
+      "date": "2026-10-28T00:00+01:00",
+      "arena": "Nationalarenan, Strawberry Arena",
+      "round": 26
+    },
+    {
+      "matchId": 6530030,
+      "home": "Hammarby",
+      "away": "IK Sirius FK",
+      "date": "2026-10-28T00:00+01:00",
+      "arena": "3Arena",
+      "round": 26
+    },
+    {
+      "matchId": 6530031,
+      "home": "IFK Göteborg",
+      "away": "Djurgården",
+      "date": "2026-10-28T00:00+01:00",
+      "arena": "Gamla Ullevi",
+      "round": 26
+    },
+    {
+      "matchId": 6530032,
+      "home": "Örgryte IS Fotboll",
+      "away": "Mjällby AIF",
+      "date": "2026-10-28T00:00+01:00",
+      "arena": "Gamla Ullevi",
+      "round": 26
+    },
+    {
+      "matchId": 6530033,
+      "home": "IF Brommapojkarna",
+      "away": "BK Häcken",
+      "date": "2026-10-28T00:00+01:00",
+      "arena": "Grimsta IP 1",
+      "round": 26
+    },
+    {
+      "matchId": 6530034,
+      "home": "Degerfors IF",
+      "away": "Västerås SK FK",
+      "date": "2026-10-28T00:00+01:00",
+      "arena": "Stora Valla A-plan",
+      "round": 26
+    },
+    {
+      "matchId": 6530035,
+      "home": "Kalmar FF",
+      "away": "GAIS",
+      "date": "2026-10-28T00:00+01:00",
+      "arena": "Guldfågeln Arena, Kalmar",
+      "round": 26
+    },
+    {
+      "matchId": 6530036,
+      "home": "Halmstad",
+      "away": "Malmö FF",
+      "date": "2026-10-28T00:00+01:00",
+      "arena": "Örjans Vall",
+      "round": 26
+    },
+    {
+      "matchId": 6530037,
+      "home": "Djurgården",
+      "away": "Degerfors IF",
+      "date": "2026-11-01T00:00+01:00",
+      "arena": "3Arena",
+      "round": 27
+    },
+    {
+      "matchId": 6530038,
+      "home": "GAIS",
+      "away": "AIK",
+      "date": "2026-11-01T00:00+01:00",
+      "arena": "Gamla Ullevi",
+      "round": 27
+    },
+    {
+      "matchId": 6530039,
+      "home": "BK Häcken",
+      "away": "IFK Göteborg",
+      "date": "2026-11-01T00:00+01:00",
+      "arena": "Nordic Wellness Arena",
+      "round": 27
+    },
+    {
+      "matchId": 6530040,
+      "home": "Mjällby AIF",
+      "away": "Kalmar FF",
+      "date": "2026-11-01T00:00+01:00",
+      "arena": "Strandvallen A-plan",
+      "round": 27
+    },
+    {
+      "matchId": 6530041,
+      "home": "Malmö FF",
+      "away": "Hammarby",
+      "date": "2026-11-01T00:00+01:00",
+      "arena": "Eleda Stadion",
+      "round": 27
+    },
+    {
+      "matchId": 6530042,
+      "home": "IF Elfsborg",
+      "away": "Örgryte IS Fotboll",
+      "date": "2026-11-01T00:00+01:00",
+      "arena": "Borås Arena",
+      "round": 27
+    },
+    {
+      "matchId": 6530043,
+      "home": "IK Sirius FK",
+      "away": "Halmstad",
+      "date": "2026-11-01T00:00+01:00",
+      "arena": "Studenternas",
+      "round": 27
+    },
+    {
+      "matchId": 6530044,
+      "home": "Västerås SK FK",
+      "away": "IF Brommapojkarna",
+      "date": "2026-11-01T00:00+01:00",
+      "arena": "Hitachi Energy Arena",
+      "round": 27
+    },
+    {
+      "matchId": 6530045,
+      "home": "AIK",
+      "away": "BK Häcken",
+      "date": "2026-11-08T00:00+01:00",
+      "arena": "Nationalarenan, Strawberry Arena",
+      "round": 28
+    },
+    {
+      "matchId": 6530046,
+      "home": "Hammarby",
+      "away": "IF Elfsborg",
+      "date": "2026-11-08T00:00+01:00",
+      "arena": "3Arena",
+      "round": 28
+    },
+    {
+      "matchId": 6530047,
+      "home": "IFK Göteborg",
+      "away": "Malmö FF",
+      "date": "2026-11-08T00:00+01:00",
+      "arena": "Gamla Ullevi",
+      "round": 28
+    },
+    {
+      "matchId": 6530048,
+      "home": "Örgryte IS Fotboll",
+      "away": "Västerås SK FK",
+      "date": "2026-11-08T00:00+01:00",
+      "arena": "Gamla Ullevi",
+      "round": 28
+    },
+    {
+      "matchId": 6530049,
+      "home": "IF Brommapojkarna",
+      "away": "Mjällby AIF",
+      "date": "2026-11-08T00:00+01:00",
+      "arena": "Grimsta IP 1",
+      "round": 28
+    },
+    {
+      "matchId": 6530050,
+      "home": "Degerfors IF",
+      "away": "GAIS",
+      "date": "2026-11-08T00:00+01:00",
+      "arena": "Stora Valla A-plan",
+      "round": 28
+    },
+    {
+      "matchId": 6530051,
+      "home": "Kalmar FF",
+      "away": "IK Sirius FK",
+      "date": "2026-11-08T00:00+01:00",
+      "arena": "Guldfågeln Arena, Kalmar",
+      "round": 28
+    },
+    {
+      "matchId": 6530052,
+      "home": "Halmstad",
+      "away": "Djurgården",
+      "date": "2026-11-08T00:00+01:00",
+      "arena": "Örjans Vall",
+      "round": 28
+    },
+    {
+      "matchId": 6530053,
+      "home": "AIK",
+      "away": "Degerfors IF",
+      "date": "2026-11-22T00:00+01:00",
+      "arena": "Nationalarenan, Strawberry Arena",
+      "round": 29
+    },
+    {
+      "matchId": 6530054,
+      "home": "Hammarby",
+      "away": "IFK Göteborg",
+      "date": "2026-11-22T00:00+01:00",
+      "arena": "3Arena",
+      "round": 29
+    },
+    {
+      "matchId": 6530055,
+      "home": "GAIS",
+      "away": "Västerås SK FK",
+      "date": "2026-11-22T00:00+01:00",
+      "arena": "Gamla Ullevi",
+      "round": 29
+    },
+    {
+      "matchId": 6530056,
+      "home": "Örgryte IS Fotboll",
+      "away": "Kalmar FF",
+      "date": "2026-11-22T00:00+01:00",
+      "arena": "Gamla Ullevi",
+      "round": 29
+    },
+    {
+      "matchId": 6530057,
+      "home": "BK Häcken",
+      "away": "IF Elfsborg",
+      "date": "2026-11-22T00:00+01:00",
+      "arena": "Nordic Wellness Arena",
+      "round": 29
+    },
+    {
+      "matchId": 6530058,
+      "home": "Mjällby AIF",
+      "away": "Malmö FF",
+      "date": "2026-11-22T00:00+01:00",
+      "arena": "Strandvallen A-plan",
+      "round": 29
+    },
+    {
+      "matchId": 6530059,
+      "home": "IF Brommapojkarna",
+      "away": "Halmstad",
+      "date": "2026-11-22T00:00+01:00",
+      "arena": "Grimsta IP 1",
+      "round": 29
+    },
+    {
+      "matchId": 6530060,
+      "home": "IK Sirius FK",
+      "away": "Djurgården",
+      "date": "2026-11-22T00:00+01:00",
+      "arena": "Studenternas",
+      "round": 29
+    },
+    {
+      "matchId": 6530061,
+      "home": "Djurgården",
+      "away": "BK Häcken",
+      "date": "2026-11-29T00:00+01:00",
+      "arena": "3Arena",
+      "round": 30
+    },
+    {
+      "matchId": 6530062,
+      "home": "IFK Göteborg",
+      "away": "IK Sirius FK",
+      "date": "2026-11-29T00:00+01:00",
+      "arena": "Gamla Ullevi",
+      "round": 30
+    },
+    {
+      "matchId": 6530063,
+      "home": "Malmö FF",
+      "away": "IF Brommapojkarna",
+      "date": "2026-11-29T00:00+01:00",
+      "arena": "Eleda Stadion",
+      "round": 30
+    },
+    {
+      "matchId": 6530064,
+      "home": "IF Elfsborg",
+      "away": "GAIS",
+      "date": "2026-11-29T00:00+01:00",
+      "arena": "Borås Arena",
+      "round": 30
+    },
+    {
+      "matchId": 6530065,
+      "home": "Degerfors IF",
+      "away": "Örgryte IS Fotboll",
+      "date": "2026-11-29T00:00+01:00",
+      "arena": "Stora Valla A-plan",
+      "round": 30
+    },
+    {
+      "matchId": 6530066,
+      "home": "Västerås SK FK",
+      "away": "Hammarby",
+      "date": "2026-11-29T00:00+01:00",
+      "arena": "Hitachi Energy Arena",
+      "round": 30
+    },
+    {
+      "matchId": 6530067,
+      "home": "Kalmar FF",
+      "away": "AIK",
+      "date": "2026-11-29T00:00+01:00",
+      "arena": "Guldfågeln Arena, Kalmar",
+      "round": 30
+    },
+    {
+      "matchId": 6530068,
+      "home": "Halmstad",
+      "away": "Mjällby AIF",
+      "date": "2026-11-29T00:00+01:00",
+      "arena": "Örjans Vall",
+      "round": 30
+    }
+  ]
+}

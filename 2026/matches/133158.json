@@ -1,0 +1,1197 @@
+{
+  "competitionId": 133158,
+  "matches": [
+    {
+      "matchId": 6532974,
+      "home": "Näsets SK",
+      "homeScore": 0,
+      "away": "GAIS",
+      "awayScore": 1,
+      "date": "2026-03-28T16:30+01:00",
+      "arena": "Näset Yuncture Arena",
+      "round": 1
+    },
+    {
+      "matchId": 6532972,
+      "home": "Askims IK",
+      "homeScore": 1,
+      "away": "Älvängens IK",
+      "awayScore": 2,
+      "date": "2026-04-01T20:15+02:00",
+      "arena": "Åkeredsvallen 2 Konstgräs",
+      "round": 1
+    },
+    {
+      "matchId": 6532975,
+      "home": "IK Kongahälla",
+      "homeScore": 4,
+      "away": "Torslanda IK",
+      "awayScore": 0,
+      "date": "2026-04-01T20:15+02:00",
+      "arena": "Kongevi 1 Konstgräs",
+      "attendance": 70,
+      "round": 1
+    },
+    {
+      "matchId": 6532977,
+      "home": "Qviding FIF (B)",
+      "homeScore": 0,
+      "away": "Mossens BK",
+      "awayScore": 2,
+      "date": "2026-04-02T20:15+02:00",
+      "arena": "Härlanda Park 1 Konstgräs",
+      "attendance": 45,
+      "round": 1
+    },
+    {
+      "matchId": 6532973,
+      "home": "Ytterby IS",
+      "homeScore": 2,
+      "away": "Floda BoIF",
+      "awayScore": 1,
+      "date": "2026-04-06T13:00+02:00",
+      "arena": "Ytterns IP 1 Konstgräs",
+      "attendance": 100,
+      "round": 1
+    },
+    {
+      "matchId": 6532976,
+      "home": "Landvetter IF 2003",
+      "homeScore": 1,
+      "away": "IFK Göteborg (U)",
+      "awayScore": 6,
+      "date": "2026-04-07T20:15+02:00",
+      "arena": "Landvetter IP A-plan",
+      "attendance": 38,
+      "round": 1
+    },
+    {
+      "matchId": 6532983,
+      "home": "Älvängens IK",
+      "homeScore": 4,
+      "away": "Qviding FIF (B)",
+      "awayScore": 2,
+      "date": "2026-04-10T19:30+02:00",
+      "arena": "Älvevi 2 Konstgräs",
+      "round": 2
+    },
+    {
+      "matchId": 6532981,
+      "home": "GAIS",
+      "homeScore": 2,
+      "away": "Ytterby IS",
+      "awayScore": 0,
+      "date": "2026-04-10T19:45+02:00",
+      "arena": "Valhalla 1 Konstgräs",
+      "round": 2
+    },
+    {
+      "matchId": 6532980,
+      "home": "IK Kongahälla",
+      "homeScore": 2,
+      "away": "Näsets SK",
+      "awayScore": 0,
+      "date": "2026-04-11T14:00+02:00",
+      "arena": "Kongevi 1 Konstgräs",
+      "round": 2
+    },
+    {
+      "matchId": 6532979,
+      "home": "IFK Göteborg (U)",
+      "homeScore": 8,
+      "away": "Torslanda IK",
+      "awayScore": 0,
+      "date": "2026-04-12T17:00+02:00",
+      "arena": "Kviberg 6 KG",
+      "attendance": 59,
+      "round": 2
+    },
+    {
+      "matchId": 6532978,
+      "home": "Landvetter IF 2003",
+      "homeScore": 1,
+      "away": "Mossens BK",
+      "awayScore": 2,
+      "date": "2026-04-15T19:39+02:00",
+      "arena": "Landvetter IP A-plan",
+      "attendance": 38,
+      "round": 2
+    },
+    {
+      "matchId": 6532982,
+      "home": "Askims IK",
+      "homeScore": 1,
+      "away": "Floda BoIF",
+      "awayScore": 3,
+      "date": "2026-04-15T20:15+02:00",
+      "arena": "Åkeredsvallen 2 Konstgräs",
+      "attendance": 42,
+      "round": 2
+    },
+    {
+      "matchId": 6532985,
+      "home": "Ytterby IS",
+      "homeScore": 3,
+      "away": "IK Kongahälla",
+      "awayScore": 0,
+      "date": "2026-04-17T19:00+02:00",
+      "arena": "Ytterns IP 1 Konstgräs",
+      "attendance": 250,
+      "round": 3
+    },
+    {
+      "matchId": 6532986,
+      "home": "Näsets SK",
+      "homeScore": 3,
+      "away": "IFK Göteborg (U)",
+      "awayScore": 1,
+      "date": "2026-04-17T19:15+02:00",
+      "arena": "Näset Yuncture Arena",
+      "round": 3
+    },
+    {
+      "matchId": 6532987,
+      "home": "Torslanda IK",
+      "homeScore": 0,
+      "away": "Mossens BK",
+      "awayScore": 1,
+      "date": "2026-04-18T14:15+02:00",
+      "arena": "Torslandavallen 2 Konstgräs",
+      "attendance": 68,
+      "round": 3
+    },
+    {
+      "matchId": 6532989,
+      "home": "Floda BoIF",
+      "homeScore": 2,
+      "away": "Älvängens IK",
+      "awayScore": 1,
+      "date": "2026-04-19T16:00+02:00",
+      "arena": "Flodala IP 3 KG",
+      "attendance": 40,
+      "round": 3
+    },
+    {
+      "matchId": 6532988,
+      "home": "Landvetter IF 2003",
+      "homeScore": 4,
+      "away": "Qviding FIF (B)",
+      "awayScore": 2,
+      "date": "2026-04-19T18:00+02:00",
+      "arena": "Landvetter IP A-plan",
+      "attendance": 61,
+      "round": 3
+    },
+    {
+      "matchId": 6532984,
+      "home": "Askims IK",
+      "homeScore": 0,
+      "away": "GAIS",
+      "awayScore": 4,
+      "date": "2026-04-20T20:10+02:00",
+      "arena": "Kobbegården 1 Konstgräs",
+      "round": 3
+    },
+    {
+      "matchId": 6532993,
+      "home": "IK Kongahälla",
+      "homeScore": 3,
+      "away": "Askims IK",
+      "awayScore": 0,
+      "date": "2026-04-24T19:00+02:00",
+      "arena": "Kongevi 1 Konstgräs",
+      "round": 4
+    },
+    {
+      "matchId": 6532995,
+      "home": "Älvängens IK",
+      "homeScore": 3,
+      "away": "Landvetter IF 2003",
+      "awayScore": 1,
+      "date": "2026-04-24T19:15+02:00",
+      "arena": "Älvevi 2 Konstgräs",
+      "attendance": 50,
+      "round": 4
+    },
+    {
+      "matchId": 6532994,
+      "home": "GAIS",
+      "homeScore": 6,
+      "away": "Floda BoIF",
+      "awayScore": 1,
+      "date": "2026-04-24T19:45+02:00",
+      "arena": "Valhalla 1 Konstgräs",
+      "attendance": 100,
+      "round": 4
+    },
+    {
+      "matchId": 6532990,
+      "home": "Qviding FIF (B)",
+      "homeScore": 3,
+      "away": "Torslanda IK",
+      "awayScore": 2,
+      "date": "2026-04-25T13:00+02:00",
+      "arena": "Kviberg 2 konstgräs",
+      "round": 4
+    },
+    {
+      "matchId": 6532991,
+      "home": "Mossens BK",
+      "homeScore": 3,
+      "away": "Näsets SK",
+      "awayScore": 0,
+      "date": "2026-04-26T12:00+02:00",
+      "arena": "Valhalla 1 Konstgräs",
+      "attendance": 35,
+      "round": 4
+    },
+    {
+      "matchId": 6532992,
+      "home": "IFK Göteborg (U)",
+      "away": "Ytterby IS",
+      "date": "2026-12-31T00:00+01:00",
+      "arena": "Kviberg 6 KG",
+      "round": 4
+    },
+    {
+      "matchId": 6532997,
+      "home": "Ytterby IS",
+      "homeScore": 1,
+      "away": "Mossens BK",
+      "awayScore": 4,
+      "date": "2026-04-28T19:30+02:00",
+      "arena": "Ytterns IP 1 Konstgräs",
+      "round": 5
+    },
+    {
+      "matchId": 6532999,
+      "home": "Torslanda IK",
+      "homeScore": 1,
+      "away": "Landvetter IF 2003",
+      "awayScore": 1,
+      "date": "2026-05-02T13:00+02:00",
+      "arena": "Torslandavallen 1 Gräs",
+      "attendance": 100,
+      "round": 5
+    },
+    {
+      "matchId": 6533000,
+      "home": "GAIS",
+      "homeScore": 2,
+      "away": "Älvängens IK",
+      "awayScore": 1,
+      "date": "2026-05-03T13:00+02:00",
+      "arena": "Valhalla 1 Konstgräs",
+      "round": 5
+    },
+    {
+      "matchId": 6533001,
+      "home": "Floda BoIF",
+      "homeScore": 1,
+      "away": "IK Kongahälla",
+      "awayScore": 5,
+      "date": "2026-05-03T16:00+02:00",
+      "arena": "Flodala IP 3 KG",
+      "attendance": 37,
+      "round": 5
+    },
+    {
+      "matchId": 6532998,
+      "home": "Näsets SK",
+      "homeScore": 5,
+      "away": "Qviding FIF (B)",
+      "awayScore": 0,
+      "date": "2026-05-03T16:30+02:00",
+      "arena": "Näset Yuncture Arena",
+      "round": 5
+    },
+    {
+      "matchId": 6532996,
+      "home": "Askims IK",
+      "homeScore": 2,
+      "away": "IFK Göteborg (U)",
+      "awayScore": 2,
+      "date": "2026-05-04T20:15+02:00",
+      "arena": "Kobbegården 1 Konstgräs",
+      "round": 5
+    },
+    {
+      "matchId": 6533005,
+      "home": "IFK Göteborg (U)",
+      "homeScore": 5,
+      "away": "Floda BoIF",
+      "awayScore": 0,
+      "date": "2026-05-06T19:00+02:00",
+      "arena": "Kviberg 6 KG",
+      "attendance": 29,
+      "round": 6
+    },
+    {
+      "matchId": 6533003,
+      "home": "Qviding FIF (B)",
+      "homeScore": 1,
+      "away": "Ytterby IS",
+      "awayScore": 2,
+      "date": "2026-05-07T20:15+02:00",
+      "arena": "Härlanda Park 1 Konstgräs",
+      "round": 6
+    },
+    {
+      "matchId": 6533006,
+      "home": "IK Kongahälla",
+      "homeScore": 0,
+      "away": "GAIS",
+      "awayScore": 0,
+      "date": "2026-05-09T14:00+02:00",
+      "arena": "Kongevi 1 Konstgräs",
+      "round": 6
+    },
+    {
+      "matchId": 6533004,
+      "home": "Mossens BK",
+      "homeScore": 1,
+      "away": "Askims IK",
+      "awayScore": 0,
+      "date": "2026-05-10T17:00+02:00",
+      "arena": "Valhalla 1 Konstgräs",
+      "attendance": 57,
+      "round": 6
+    },
+    {
+      "matchId": 6533002,
+      "home": "Landvetter IF 2003",
+      "homeScore": 2,
+      "away": "Näsets SK",
+      "awayScore": 5,
+      "date": "2026-05-10T18:00+02:00",
+      "arena": "Landvetter IP A-plan",
+      "attendance": 65,
+      "round": 6
+    },
+    {
+      "matchId": 6533007,
+      "home": "Älvängens IK",
+      "homeScore": 0,
+      "away": "Torslanda IK",
+      "awayScore": 3,
+      "date": "2026-05-10T18:00+02:00",
+      "arena": "Älvevi 1 Gräs",
+      "attendance": 47,
+      "round": 6
+    },
+    {
+      "matchId": 6533013,
+      "home": "Floda BoIF",
+      "homeScore": 0,
+      "away": "Mossens BK",
+      "awayScore": 3,
+      "date": "2026-05-12T19:00+02:00",
+      "arena": "Flodala IP 1 Gräs",
+      "round": 7
+    },
+    {
+      "matchId": 6533009,
+      "home": "Ytterby IS",
+      "homeScore": 4,
+      "away": "Landvetter IF 2003",
+      "awayScore": 4,
+      "date": "2026-05-13T19:00+02:00",
+      "arena": "Ytterns IP 1 Konstgräs",
+      "round": 7
+    },
+    {
+      "matchId": 6533011,
+      "home": "IK Kongahälla",
+      "homeScore": 4,
+      "away": "Älvängens IK",
+      "awayScore": 0,
+      "date": "2026-05-15T19:00+02:00",
+      "arena": "Kongevi 1 Konstgräs",
+      "attendance": 128,
+      "round": 7
+    },
+    {
+      "matchId": 6533010,
+      "home": "Näsets SK",
+      "homeScore": 5,
+      "away": "Torslanda IK",
+      "awayScore": 2,
+      "date": "2026-05-15T19:15+02:00",
+      "arena": "Näset Yuncture Arena",
+      "attendance": 50,
+      "round": 7
+    },
+    {
+      "matchId": 6533008,
+      "home": "Askims IK",
+      "homeScore": 3,
+      "away": "Qviding FIF (B)",
+      "awayScore": 1,
+      "date": "2026-05-16T12:15+02:00",
+      "arena": "Kobbegården 1 Konstgräs",
+      "round": 7
+    },
+    {
+      "matchId": 6533012,
+      "home": "GAIS",
+      "homeScore": 2,
+      "away": "IFK Göteborg (U)",
+      "awayScore": 1,
+      "date": "2026-05-17T18:15+02:00",
+      "arena": "Valhalla 1 Konstgräs",
+      "round": 7
+    },
+    {
+      "matchId": 6533014,
+      "home": "Torslanda IK",
+      "homeScore": 3,
+      "away": "Ytterby IS",
+      "awayScore": 2,
+      "date": "2026-05-19T19:00+02:00",
+      "arena": "Torslandavallen 1 Gräs",
+      "round": 8
+    },
+    {
+      "matchId": 6533018,
+      "home": "IFK Göteborg (U)",
+      "homeScore": 4,
+      "away": "IK Kongahälla",
+      "awayScore": 0,
+      "date": "2026-05-20T19:00+02:00",
+      "arena": "Kviberg 6 KG",
+      "round": 8
+    },
+    {
+      "matchId": 6533016,
+      "home": "Qviding FIF (B)",
+      "homeScore": 1,
+      "away": "Floda BoIF",
+      "awayScore": 1,
+      "date": "2026-05-22T20:15+02:00",
+      "arena": "Härlanda Park 1 Konstgräs",
+      "round": 8
+    },
+    {
+      "matchId": 6533017,
+      "home": "Mossens BK",
+      "homeScore": 0,
+      "away": "GAIS",
+      "awayScore": 1,
+      "date": "2026-05-22T20:15+02:00",
+      "arena": "Guldheden Södra 1 Konstgräs",
+      "attendance": 150,
+      "round": 8
+    },
+    {
+      "matchId": 6533019,
+      "home": "Älvängens IK",
+      "homeScore": 1,
+      "away": "Näsets SK",
+      "awayScore": 3,
+      "date": "2026-05-23T15:00+02:00",
+      "arena": "Älvevi 1 Gräs",
+      "round": 8
+    },
+    {
+      "matchId": 6533015,
+      "home": "Landvetter IF 2003",
+      "homeScore": 1,
+      "away": "Askims IK",
+      "awayScore": 6,
+      "date": "2026-05-24T18:00+02:00",
+      "arena": "Landvetter IP A-plan",
+      "round": 8
+    },
+    {
+      "matchId": 6533022,
+      "home": "IFK Göteborg (U)",
+      "homeScore": 0,
+      "away": "Älvängens IK",
+      "awayScore": 0,
+      "date": "2026-05-27T19:00+02:00",
+      "arena": "Kviberg 6 KG",
+      "round": 9
+    },
+    {
+      "matchId": 6533021,
+      "home": "Ytterby IS",
+      "homeScore": 4,
+      "away": "Näsets SK",
+      "awayScore": 5,
+      "date": "2026-05-29T19:00+02:00",
+      "arena": "Ytterns IP 1 Konstgräs",
+      "round": 9
+    },
+    {
+      "matchId": 6533020,
+      "home": "Askims IK",
+      "homeScore": 2,
+      "away": "Torslanda IK",
+      "awayScore": 4,
+      "date": "2026-05-29T19:15+02:00",
+      "arena": "Kobbegården 1 Konstgräs",
+      "round": 9
+    },
+    {
+      "matchId": 6533024,
+      "home": "GAIS",
+      "homeScore": 5,
+      "away": "Qviding FIF (B)",
+      "awayScore": 2,
+      "date": "2026-05-29T19:45+02:00",
+      "arena": "Valhalla 1 Konstgräs",
+      "attendance": 121,
+      "round": 9
+    },
+    {
+      "matchId": 6533023,
+      "home": "IK Kongahälla",
+      "homeScore": 1,
+      "away": "Mossens BK",
+      "awayScore": 3,
+      "date": "2026-05-30T12:00+02:00",
+      "arena": "Kongevi 1 Konstgräs",
+      "attendance": 60,
+      "round": 9
+    },
+    {
+      "matchId": 6533025,
+      "home": "Floda BoIF",
+      "homeScore": 3,
+      "away": "Landvetter IF 2003",
+      "awayScore": 0,
+      "date": "2026-05-30T13:00+02:00",
+      "arena": "Flodala IP 1 Gräs",
+      "round": 9
+    },
+    {
+      "matchId": 6533026,
+      "home": "Älvängens IK",
+      "homeScore": 0,
+      "away": "Ytterby IS",
+      "awayScore": 4,
+      "date": "2026-06-02T19:15+02:00",
+      "arena": "Älvevi 1 Gräs",
+      "round": 10
+    },
+    {
+      "matchId": 6533030,
+      "home": "Qviding FIF (B)",
+      "away": "IK Kongahälla",
+      "date": "2026-06-04T20:15+02:00",
+      "arena": "Härlanda Park 1 Konstgräs",
+      "round": 10
+    },
+    {
+      "matchId": 6533031,
+      "home": "Mossens BK",
+      "away": "IFK Göteborg (U)",
+      "date": "2026-06-05T19:45+02:00",
+      "arena": "Valhalla 1 Konstgräs",
+      "round": 10
+    },
+    {
+      "matchId": 6533027,
+      "home": "Näsets SK",
+      "away": "Askims IK",
+      "date": "2026-06-07T16:30+02:00",
+      "arena": "Näset Yuncture Arena",
+      "round": 10
+    },
+    {
+      "matchId": 6533029,
+      "home": "Landvetter IF 2003",
+      "away": "GAIS",
+      "date": "2026-06-07T18:00+02:00",
+      "arena": "Landvetter IP A-plan",
+      "round": 10
+    },
+    {
+      "matchId": 6533028,
+      "home": "Torslanda IK",
+      "away": "Floda BoIF",
+      "date": "2026-06-08T19:00+02:00",
+      "arena": "Torslandavallen 1 Gräs",
+      "round": 10
+    },
+    {
+      "matchId": 6533036,
+      "home": "IFK Göteborg (U)",
+      "away": "Qviding FIF (B)",
+      "date": "2026-06-09T19:30+02:00",
+      "arena": "Kviberg 6 KG",
+      "round": 11
+    },
+    {
+      "matchId": 6533033,
+      "home": "IK Kongahälla",
+      "away": "Landvetter IF 2003",
+      "date": "2026-06-12T19:00+02:00",
+      "arena": "Kongevi 1 Konstgräs",
+      "round": 11
+    },
+    {
+      "matchId": 6533037,
+      "home": "Älvängens IK",
+      "away": "Mossens BK",
+      "date": "2026-06-12T19:00+02:00",
+      "arena": "Älvevi 1 Gräs",
+      "round": 11
+    },
+    {
+      "matchId": 6533035,
+      "home": "Näsets SK",
+      "away": "Floda BoIF",
+      "date": "2026-06-12T19:15+02:00",
+      "arena": "Näset Yuncture Arena",
+      "round": 11
+    },
+    {
+      "matchId": 6533034,
+      "home": "GAIS",
+      "away": "Torslanda IK",
+      "date": "2026-06-12T19:45+02:00",
+      "arena": "Valhalla 1 Konstgräs",
+      "round": 11
+    },
+    {
+      "matchId": 6533032,
+      "home": "Askims IK",
+      "away": "Ytterby IS",
+      "date": "2026-06-13T12:15+02:00",
+      "arena": "Kobbegården 1 Konstgräs",
+      "round": 11
+    },
+    {
+      "matchId": 6533041,
+      "home": "Torslanda IK",
+      "away": "IK Kongahälla",
+      "date": "2026-06-16T19:00+02:00",
+      "arena": "Torslandavallen 1 Gräs",
+      "round": 12
+    },
+    {
+      "matchId": 6533042,
+      "home": "IFK Göteborg (U)",
+      "away": "Landvetter IF 2003",
+      "date": "2026-06-17T19:00+02:00",
+      "arena": "Kviberg 6 KG",
+      "round": 12
+    },
+    {
+      "matchId": 6533040,
+      "home": "GAIS",
+      "away": "Näsets SK",
+      "date": "2026-06-21T19:15+02:00",
+      "arena": "Valhalla 1 Konstgräs",
+      "round": 12
+    },
+    {
+      "matchId": 6533039,
+      "home": "Floda BoIF",
+      "away": "Ytterby IS",
+      "date": "2026-06-22T19:00+02:00",
+      "arena": "Flodala IP 1 Gräs",
+      "round": 12
+    },
+    {
+      "matchId": 6533038,
+      "home": "Älvängens IK",
+      "away": "Askims IK",
+      "date": "2026-06-23T19:00+02:00",
+      "arena": "Älvevi 1 Gräs",
+      "round": 12
+    },
+    {
+      "matchId": 6533043,
+      "home": "Mossens BK",
+      "away": "Qviding FIF (B)",
+      "date": "2026-08-19T20:15+02:00",
+      "arena": "Valhalla 1 Konstgräs",
+      "round": 12
+    },
+    {
+      "matchId": 6533049,
+      "home": "Qviding FIF (B)",
+      "away": "Älvängens IK",
+      "date": "2026-06-17T20:15+02:00",
+      "arena": "Härlanda Park 1 Konstgräs",
+      "round": 13
+    },
+    {
+      "matchId": 6533046,
+      "home": "Näsets SK",
+      "away": "IK Kongahälla",
+      "date": "2026-06-24T20:15+02:00",
+      "arena": "Näset Yuncture Arena",
+      "round": 13
+    },
+    {
+      "matchId": 6533044,
+      "home": "Mossens BK",
+      "away": "Landvetter IF 2003",
+      "date": "2026-06-24T20:15+02:00",
+      "arena": "Valhalla 1 Konstgräs",
+      "round": 13
+    },
+    {
+      "matchId": 6533047,
+      "home": "Ytterby IS",
+      "away": "GAIS",
+      "date": "2026-06-26T19:00+02:00",
+      "arena": "Ytterns IP 1 Konstgräs",
+      "round": 13
+    },
+    {
+      "matchId": 6533048,
+      "home": "Floda BoIF",
+      "away": "Askims IK",
+      "date": "2026-06-27T13:00+02:00",
+      "arena": "Flodala IP 1 Gräs",
+      "round": 13
+    },
+    {
+      "matchId": 6533045,
+      "home": "Torslanda IK",
+      "away": "IFK Göteborg (U)",
+      "date": "2026-06-27T13:00+02:00",
+      "arena": "Torslandavallen 1 Gräs",
+      "round": 13
+    },
+    {
+      "matchId": 6533052,
+      "home": "IFK Göteborg (U)",
+      "homeScore": 6,
+      "away": "Näsets SK",
+      "awayScore": 3,
+      "date": "2026-06-02T19:30+02:00",
+      "arena": "Kviberg 6 KG",
+      "attendance": 40,
+      "round": 14
+    },
+    {
+      "matchId": 6533051,
+      "home": "IK Kongahälla",
+      "away": "Ytterby IS",
+      "date": "2026-08-07T19:00+02:00",
+      "arena": "Kongevi 1 Konstgräs",
+      "round": 14
+    },
+    {
+      "matchId": 6533053,
+      "home": "Mossens BK",
+      "away": "Torslanda IK",
+      "date": "2026-08-09T12:00+02:00",
+      "arena": "Valhalla 1 Konstgräs",
+      "round": 14
+    },
+    {
+      "matchId": 6533055,
+      "home": "Älvängens IK",
+      "away": "Floda BoIF",
+      "date": "2026-08-11T19:00+02:00",
+      "arena": "Älvevi 1 Gräs",
+      "round": 14
+    },
+    {
+      "matchId": 6533054,
+      "home": "Qviding FIF (B)",
+      "away": "Landvetter IF 2003",
+      "date": "2026-08-11T20:05+02:00",
+      "arena": "Härlanda Park 2 Konstgräs",
+      "round": 14
+    },
+    {
+      "matchId": 6533050,
+      "home": "GAIS",
+      "away": "Askims IK",
+      "date": "2026-08-24T19:00+02:00",
+      "arena": "Gaisgården 2 Konstgräs",
+      "round": 14
+    },
+    {
+      "matchId": 6533058,
+      "home": "Ytterby IS",
+      "away": "IFK Göteborg (U)",
+      "date": "2026-08-14T19:00+02:00",
+      "arena": "Ytterns IP 1 Konstgräs",
+      "round": 15
+    },
+    {
+      "matchId": 6533057,
+      "home": "Näsets SK",
+      "away": "Mossens BK",
+      "date": "2026-08-14T19:15+02:00",
+      "arena": "Näset Yuncture Arena",
+      "round": 15
+    },
+    {
+      "matchId": 6533060,
+      "home": "Floda BoIF",
+      "away": "GAIS",
+      "date": "2026-08-15T13:00+02:00",
+      "arena": "Flodala IP 1 Gräs",
+      "round": 15
+    },
+    {
+      "matchId": 6533056,
+      "home": "Torslanda IK",
+      "away": "Qviding FIF (B)",
+      "date": "2026-08-15T15:15+02:00",
+      "arena": "Torslandavallen 1 Gräs",
+      "round": 15
+    },
+    {
+      "matchId": 6533061,
+      "home": "Landvetter IF 2003",
+      "away": "Älvängens IK",
+      "date": "2026-08-16T18:00+02:00",
+      "arena": "Landvetter IP A-plan",
+      "round": 15
+    },
+    {
+      "matchId": 6533059,
+      "home": "Askims IK",
+      "away": "IK Kongahälla",
+      "date": "2026-08-16T18:15+02:00",
+      "arena": "Kobbegården 1 Konstgräs",
+      "round": 15
+    },
+    {
+      "matchId": 6533062,
+      "home": "IFK Göteborg (U)",
+      "away": "Askims IK",
+      "date": "2026-08-19T19:00+02:00",
+      "arena": "Kviberg 6 KG",
+      "round": 16
+    },
+    {
+      "matchId": 6533067,
+      "home": "IK Kongahälla",
+      "away": "Floda BoIF",
+      "date": "2026-08-20T20:15+02:00",
+      "arena": "Kongevi 1 Konstgräs",
+      "round": 16
+    },
+    {
+      "matchId": 6533066,
+      "home": "Älvängens IK",
+      "away": "GAIS",
+      "date": "2026-08-21T18:45+02:00",
+      "arena": "Älvevi 1 Gräs",
+      "round": 16
+    },
+    {
+      "matchId": 6533064,
+      "home": "Qviding FIF (B)",
+      "away": "Näsets SK",
+      "date": "2026-08-22T14:15+02:00",
+      "arena": "Härlanda Park 1 Konstgräs",
+      "round": 16
+    },
+    {
+      "matchId": 6533063,
+      "home": "Mossens BK",
+      "away": "Ytterby IS",
+      "date": "2026-08-23T12:00+02:00",
+      "arena": "Valhalla 1 Konstgräs",
+      "round": 16
+    },
+    {
+      "matchId": 6533065,
+      "home": "Landvetter IF 2003",
+      "away": "Torslanda IK",
+      "date": "2026-08-23T18:00+02:00",
+      "arena": "Landvetter IP A-plan",
+      "round": 16
+    },
+    {
+      "matchId": 6533069,
+      "home": "Ytterby IS",
+      "away": "Qviding FIF (B)",
+      "date": "2026-08-28T19:00+02:00",
+      "arena": "Ytterns IP 1 Konstgräs",
+      "round": 17
+    },
+    {
+      "matchId": 6533068,
+      "home": "Näsets SK",
+      "away": "Landvetter IF 2003",
+      "date": "2026-08-28T19:15+02:00",
+      "arena": "Näset Yuncture Arena",
+      "round": 17
+    },
+    {
+      "matchId": 6533073,
+      "home": "Torslanda IK",
+      "away": "Älvängens IK",
+      "date": "2026-08-28T19:15+02:00",
+      "arena": "Torslandavallen 2 Konstgräs",
+      "round": 17
+    },
+    {
+      "matchId": 6533072,
+      "home": "GAIS",
+      "away": "IK Kongahälla",
+      "date": "2026-08-28T19:45+02:00",
+      "arena": "Valhalla 1 Konstgräs",
+      "round": 17
+    },
+    {
+      "matchId": 6533071,
+      "home": "Floda BoIF",
+      "away": "IFK Göteborg (U)",
+      "date": "2026-08-29T13:00+02:00",
+      "arena": "Flodala IP 1 Gräs",
+      "round": 17
+    },
+    {
+      "matchId": 6533070,
+      "home": "Askims IK",
+      "away": "Mossens BK",
+      "date": "2026-08-30T18:15+02:00",
+      "arena": "Kobbegården 1 Konstgräs",
+      "round": 17
+    },
+    {
+      "matchId": 6533078,
+      "home": "IFK Göteborg (U)",
+      "away": "GAIS",
+      "date": "2026-09-02T19:00+02:00",
+      "arena": "Kviberg 6 KG",
+      "round": 18
+    },
+    {
+      "matchId": 6533077,
+      "home": "Älvängens IK",
+      "away": "IK Kongahälla",
+      "date": "2026-09-04T19:30+02:00",
+      "arena": "Älvevi 2 Konstgräs",
+      "round": 18
+    },
+    {
+      "matchId": 6533079,
+      "home": "Mossens BK",
+      "away": "Floda BoIF",
+      "date": "2026-09-04T19:45+02:00",
+      "arena": "Valhalla 1 Konstgräs",
+      "round": 18
+    },
+    {
+      "matchId": 6533074,
+      "home": "Qviding FIF (B)",
+      "away": "Askims IK",
+      "date": "2026-09-05T14:15+02:00",
+      "arena": "Härlanda Park 1 Konstgräs",
+      "round": 18
+    },
+    {
+      "matchId": 6533076,
+      "home": "Torslanda IK",
+      "away": "Näsets SK",
+      "date": "2026-09-06T13:00+02:00",
+      "arena": "Torslandavallen 1 Gräs",
+      "round": 18
+    },
+    {
+      "matchId": 6533075,
+      "home": "Landvetter IF 2003",
+      "away": "Ytterby IS",
+      "date": "2026-09-06T18:00+02:00",
+      "arena": "Landvetter IP A-plan",
+      "round": 18
+    },
+    {
+      "matchId": 6533080,
+      "home": "Ytterby IS",
+      "away": "Torslanda IK",
+      "date": "2026-09-11T19:00+02:00",
+      "arena": "Ytterns IP 1 Konstgräs",
+      "round": 19
+    },
+    {
+      "matchId": 6533084,
+      "home": "IK Kongahälla",
+      "away": "IFK Göteborg (U)",
+      "date": "2026-09-11T19:00+02:00",
+      "arena": "Kongevi 1 Konstgräs",
+      "round": 19
+    },
+    {
+      "matchId": 6533085,
+      "home": "Näsets SK",
+      "away": "Älvängens IK",
+      "date": "2026-09-11T19:15+02:00",
+      "arena": "Näset Yuncture Arena",
+      "round": 19
+    },
+    {
+      "matchId": 6533083,
+      "home": "GAIS",
+      "away": "Mossens BK",
+      "date": "2026-09-11T19:45+02:00",
+      "arena": "Valhalla 1 Konstgräs",
+      "round": 19
+    },
+    {
+      "matchId": 6533081,
+      "home": "Askims IK",
+      "away": "Landvetter IF 2003",
+      "date": "2026-09-12T12:15+02:00",
+      "arena": "Kobbegården 1 Konstgräs",
+      "round": 19
+    },
+    {
+      "matchId": 6533082,
+      "home": "Floda BoIF",
+      "away": "Qviding FIF (B)",
+      "date": "2026-09-12T15:30+02:00",
+      "arena": "Flodala IP 1 Gräs",
+      "round": 19
+    },
+    {
+      "matchId": 6533087,
+      "home": "Näsets SK",
+      "away": "Ytterby IS",
+      "date": "2026-09-18T19:15+02:00",
+      "arena": "Näset Yuncture Arena",
+      "round": 20
+    },
+    {
+      "matchId": 6533088,
+      "home": "Älvängens IK",
+      "away": "IFK Göteborg (U)",
+      "date": "2026-09-18T19:30+02:00",
+      "arena": "Älvevi 2 Konstgräs",
+      "round": 20
+    },
+    {
+      "matchId": 6533090,
+      "home": "Qviding FIF (B)",
+      "away": "GAIS",
+      "date": "2026-09-18T20:15+02:00",
+      "arena": "Härlanda Park 1 Konstgräs",
+      "round": 20
+    },
+    {
+      "matchId": 6533086,
+      "home": "Torslanda IK",
+      "away": "Askims IK",
+      "date": "2026-09-19T13:00+02:00",
+      "arena": "Torslandavallen 1 Gräs",
+      "round": 20
+    },
+    {
+      "matchId": 6533089,
+      "home": "Mossens BK",
+      "away": "IK Kongahälla",
+      "date": "2026-09-20T12:00+02:00",
+      "arena": "Valhalla 1 Konstgräs",
+      "round": 20
+    },
+    {
+      "matchId": 6533091,
+      "home": "Landvetter IF 2003",
+      "away": "Floda BoIF",
+      "date": "2026-09-20T18:00+02:00",
+      "arena": "Landvetter IP A-plan",
+      "round": 20
+    },
+    {
+      "matchId": 6533097,
+      "home": "IFK Göteborg (U)",
+      "away": "Mossens BK",
+      "date": "2026-09-23T19:00+02:00",
+      "arena": "Kviberg 6 KG",
+      "round": 21
+    },
+    {
+      "matchId": 6533093,
+      "home": "Ytterby IS",
+      "away": "Älvängens IK",
+      "date": "2026-09-24T20:15+02:00",
+      "arena": "Ytterns IP 1 Konstgräs",
+      "round": 21
+    },
+    {
+      "matchId": 6533095,
+      "home": "GAIS",
+      "away": "Landvetter IF 2003",
+      "date": "2026-09-25T19:45+02:00",
+      "arena": "Valhalla 1 Konstgräs",
+      "round": 21
+    },
+    {
+      "matchId": 6533094,
+      "home": "Floda BoIF",
+      "away": "Torslanda IK",
+      "date": "2026-09-26T13:00+02:00",
+      "arena": "Flodala IP 1 Gräs",
+      "round": 21
+    },
+    {
+      "matchId": 6533096,
+      "home": "IK Kongahälla",
+      "away": "Qviding FIF (B)",
+      "date": "2026-09-26T19:00+02:00",
+      "arena": "Kongevi 1 Konstgräs",
+      "round": 21
+    },
+    {
+      "matchId": 6533092,
+      "home": "Askims IK",
+      "away": "Näsets SK",
+      "date": "2026-09-27T16:15+02:00",
+      "arena": "Kobbegården 1 Konstgräs",
+      "round": 21
+    },
+    {
+      "matchId": 6533099,
+      "home": "Qviding FIF (B)",
+      "away": "IFK Göteborg (U)",
+      "date": "2026-10-03T12:15+02:00",
+      "arena": "Härlanda Park 1 Konstgräs",
+      "round": 22
+    },
+    {
+      "matchId": 6533100,
+      "home": "Landvetter IF 2003",
+      "away": "IK Kongahälla",
+      "date": "2026-10-03T13:30+02:00",
+      "arena": "Landvetter IP B-plan",
+      "round": 22
+    },
+    {
+      "matchId": 6533098,
+      "home": "Ytterby IS",
+      "away": "Askims IK",
+      "date": "2026-10-03T14:15+02:00",
+      "arena": "Ytterns IP 1 Konstgräs",
+      "round": 22
+    },
+    {
+      "matchId": 6533102,
+      "home": "Floda BoIF",
+      "away": "Näsets SK",
+      "date": "2026-10-03T14:15+02:00",
+      "arena": "Flodala IP 1 Gräs",
+      "round": 22
+    },
+    {
+      "matchId": 6533101,
+      "home": "Torslanda IK",
+      "away": "GAIS",
+      "date": "2026-10-03T14:15+02:00",
+      "arena": "Torslandavallen 1 Gräs",
+      "round": 22
+    },
+    {
+      "matchId": 6533103,
+      "home": "Mossens BK",
+      "away": "Älvängens IK",
+      "date": "2026-10-03T14:15+02:00",
+      "arena": "Valhalla 1 Konstgräs",
+      "round": 22
+    }
+  ]
+}
