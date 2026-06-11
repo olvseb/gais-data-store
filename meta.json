@@ -1,13 +1,38 @@
 {
   "teams": [
-    { "teamId": 25530, "name": "GAIS Herr", "gender": "Man", "category": "Senior" },
-    { "teamId": 318231, "name": "GAIS Dam", "gender": "Kvinna", "category": "Senior" }
+    {
+      "teamId": 25530,
+      "name": "GAIS Herr",
+      "gender": "Man",
+      "category": "Senior"
+    },
+    {
+      "teamId": 318231,
+      "name": "GAIS Dam",
+      "gender": "Kvinna",
+      "category": "Senior"
+    }
   ],
   "seasons": [
-    { "seasonId": 119, "year": "2026" }
+    {
+      "seasonId": 119,
+      "year": "2026"
+    }
   ],
   "competitions": [
-    { "competitionId": 133348, "name": "Allsvenskan", "teamId": 25530, "seasonId": 119, "year": "2026" },
-    { "competitionId": 133158, "name": "Division 3 Dam", "teamId": 318231, "seasonId": 119, "year": "2026" }
+    {
+      "competitionId": 133348,
+      "name": "Allsvenskan",
+      "teamId": 25530,
+      "seasonId": 119,
+      "year": "2026"
+    },
+    {
+      "competitionId": 133158,
+      "name": "Division 3 Dam",
+      "teamId": 318231,
+      "seasonId": 119,
+      "year": "2026"
+    }
   ]
 }

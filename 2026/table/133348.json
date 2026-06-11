@@ -1,6 +1,12 @@
 {
-  "competition": "Allsvenskan 2026",
+  "competition": "Allsvenskan",
   "competitionId": 133348,
+  "zones": [
+    1,
+    3,
+    13,
+    14
+  ],
   "teams": [
     {
       "position": 1,
