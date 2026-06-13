@@ -642,31 +642,42 @@
     {
       "matchId": 6533033,
       "home": "IK Kongahälla",
+      "homeScore": 4,
       "away": "Landvetter IF 2003",
+      "awayScore": 1,
       "date": "2026-06-12T19:00+02:00",
       "arena": "Kongevi 1 Konstgräs",
+      "attendance": 25,
       "round": 11
     },
     {
       "matchId": 6533037,
       "home": "Älvängens IK",
+      "homeScore": 0,
       "away": "Mossens BK",
+      "awayScore": 1,
       "date": "2026-06-12T19:00+02:00",
       "arena": "Älvevi 1 Gräs",
+      "attendance": 50,
       "round": 11
     },
     {
       "matchId": 6533035,
       "home": "Näsets SK",
+      "homeScore": 5,
       "away": "Floda BoIF",
+      "awayScore": 0,
       "date": "2026-06-12T19:15+02:00",
       "arena": "Näset Yuncture Arena",
+      "attendance": 33,
       "round": 11
     },
     {
       "matchId": 6533034,
       "home": "GAIS",
+      "homeScore": 5,
       "away": "Torslanda IK",
+      "awayScore": 3,
       "date": "2026-06-12T19:45+02:00",
       "arena": "Valhalla 1 Konstgräs",
       "round": 11
@@ -674,7 +685,9 @@
     {
       "matchId": 6533032,
       "home": "Askims IK",
+      "homeScore": 0,
       "away": "Ytterby IS",
+      "awayScore": 6,
       "date": "2026-06-13T12:15+02:00",
       "arena": "Kobbegården 1 Konstgräs",
       "round": 11
