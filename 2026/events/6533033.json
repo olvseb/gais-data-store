@@ -1,0 +1,75 @@
+{
+  "matchId": 6533033,
+  "status": "FINISHED",
+  "score": {
+    "home": 4,
+    "away": 1,
+    "htHome": 2,
+    "htAway": 0
+  },
+  "referee": "Fidel Shiba",
+  "goals": [
+    {
+      "minute": "26",
+      "team": "home",
+      "scorer": "Byberg",
+      "assist": "",
+      "type": "Normal"
+    },
+    {
+      "minute": "34",
+      "team": "home",
+      "scorer": "Axelsson",
+      "assist": "",
+      "type": "Normal"
+    },
+    {
+      "minute": "52",
+      "team": "away",
+      "scorer": "Svensson",
+      "assist": "",
+      "type": "Normal"
+    },
+    {
+      "minute": "58",
+      "team": "home",
+      "scorer": "Hansson",
+      "assist": "",
+      "type": "Normal"
+    },
+    {
+      "minute": "86",
+      "team": "home",
+      "scorer": "Hedlund",
+      "assist": "",
+      "type": "Normal"
+    }
+  ],
+  "cards": [
+    {
+      "minute": "54",
+      "team": "home",
+      "player": "Rees Fager",
+      "cardType": "Yellow",
+      "isStaff": false
+    }
+  ],
+  "substitutions": [],
+  "stats": {
+    "homeCorners": 0,
+    "awayCorners": 0,
+    "homeShots": 4,
+    "awayShots": 1,
+    "homeShotsOnGoal": 4,
+    "awayShotsOnGoal": 1,
+    "homeOffsides": 0,
+    "awayOffsides": 0,
+    "homeFreekicks": 0,
+    "awayFreekicks": 0,
+    "homeYellowCards": 1,
+    "awayYellowCards": 0,
+    "homeRedCards": 0,
+    "awayRedCards": 0
+  },
+  "other": []
+}

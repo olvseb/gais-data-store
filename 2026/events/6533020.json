@@ -1,0 +1,100 @@
+{
+  "matchId": 6533020,
+  "status": "FINISHED",
+  "score": {
+    "home": 2,
+    "away": 4,
+    "htHome": 1,
+    "htAway": 1
+  },
+  "referee": "Lars Forsberg",
+  "goals": [
+    {
+      "minute": "8",
+      "team": "home",
+      "scorer": "Olsen",
+      "assist": "",
+      "type": "Normal"
+    },
+    {
+      "minute": "50",
+      "team": "away",
+      "scorer": "Kühnel Pappila",
+      "assist": "",
+      "type": "Normal"
+    },
+    {
+      "minute": "74",
+      "team": "home",
+      "scorer": "Johansson",
+      "assist": "",
+      "type": "Normal"
+    },
+    {
+      "minute": "83",
+      "team": "away",
+      "scorer": "Middleton",
+      "assist": "",
+      "type": "Normal"
+    },
+    {
+      "minute": "87",
+      "team": "away",
+      "scorer": "Wåhlin",
+      "assist": "",
+      "type": "Normal"
+    }
+  ],
+  "cards": [
+    {
+      "minute": "59",
+      "team": "home",
+      "player": "Olsen",
+      "cardType": "Yellow",
+      "isStaff": false
+    },
+    {
+      "minute": "73",
+      "team": "home",
+      "player": "Olsen",
+      "cardType": "Yellow",
+      "isStaff": false
+    },
+    {
+      "minute": "75",
+      "team": "home",
+      "player": "Lundqvist",
+      "cardType": "Yellow",
+      "isStaff": false
+    }
+  ],
+  "substitutions": [],
+  "stats": {
+    "homeCorners": 0,
+    "awayCorners": 0,
+    "homeShots": 2,
+    "awayShots": 4,
+    "homeShotsOnGoal": 2,
+    "awayShotsOnGoal": 4,
+    "homeOffsides": 0,
+    "awayOffsides": 0,
+    "homeFreekicks": 0,
+    "awayFreekicks": 0,
+    "homeYellowCards": 1,
+    "awayYellowCards": 0,
+    "homeRedCards": 0,
+    "awayRedCards": 0
+  },
+  "other": [
+    {
+      "minute": "25",
+      "team": "away",
+      "type": "Penalty goal"
+    },
+    {
+      "minute": "73",
+      "team": "home",
+      "type": "Card"
+    }
+  ]
+}

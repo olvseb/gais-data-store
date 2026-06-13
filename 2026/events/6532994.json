@@ -1,0 +1,89 @@
+{
+  "matchId": 6532994,
+  "status": "FINISHED",
+  "score": {
+    "home": 6,
+    "away": 1,
+    "htHome": 3,
+    "htAway": 1
+  },
+  "referee": "Hussein Younes",
+  "goals": [
+    {
+      "minute": "3",
+      "team": "home",
+      "scorer": "Ekner",
+      "assist": "",
+      "type": "Normal"
+    },
+    {
+      "minute": "5",
+      "team": "away",
+      "scorer": "Simonsson",
+      "assist": "",
+      "type": "Normal"
+    },
+    {
+      "minute": "6",
+      "team": "home",
+      "scorer": "Söderström",
+      "assist": "",
+      "type": "Normal"
+    },
+    {
+      "minute": "12",
+      "team": "home",
+      "scorer": "Söderström",
+      "assist": "",
+      "type": "Normal"
+    },
+    {
+      "minute": "51",
+      "team": "home",
+      "scorer": "Hedström",
+      "assist": "",
+      "type": "Normal"
+    },
+    {
+      "minute": "72",
+      "team": "home",
+      "scorer": "Ekner",
+      "assist": "",
+      "type": "Normal"
+    },
+    {
+      "minute": "75",
+      "team": "home",
+      "scorer": "Ekner",
+      "assist": "",
+      "type": "Normal"
+    }
+  ],
+  "cards": [
+    {
+      "minute": "9",
+      "team": "home",
+      "player": "Klasson",
+      "cardType": "Yellow",
+      "isStaff": false
+    }
+  ],
+  "substitutions": [],
+  "stats": {
+    "homeCorners": 0,
+    "awayCorners": 0,
+    "homeShots": 6,
+    "awayShots": 1,
+    "homeShotsOnGoal": 6,
+    "awayShotsOnGoal": 1,
+    "homeOffsides": 0,
+    "awayOffsides": 0,
+    "homeFreekicks": 0,
+    "awayFreekicks": 0,
+    "homeYellowCards": 1,
+    "awayYellowCards": 0,
+    "homeRedCards": 0,
+    "awayRedCards": 0
+  },
+  "other": []
+}

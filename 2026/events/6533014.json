@@ -1,0 +1,67 @@
+{
+  "matchId": 6533014,
+  "status": "FINISHED",
+  "score": {
+    "home": 3,
+    "away": 2,
+    "htHome": 2,
+    "htAway": 0
+  },
+  "referee": "Wilma Kanerva",
+  "goals": [
+    {
+      "minute": "37",
+      "team": "home",
+      "scorer": "Årstadius",
+      "assist": "",
+      "type": "Normal"
+    },
+    {
+      "minute": "44",
+      "team": "home",
+      "scorer": "Ygge",
+      "assist": "",
+      "type": "Normal"
+    },
+    {
+      "minute": "49",
+      "team": "away",
+      "scorer": "Åkerström",
+      "assist": "",
+      "type": "Normal"
+    },
+    {
+      "minute": "68",
+      "team": "home",
+      "scorer": "Kühnel Pappila",
+      "assist": "",
+      "type": "Normal"
+    },
+    {
+      "minute": "81",
+      "team": "away",
+      "scorer": "Åkerström",
+      "assist": "",
+      "type": "Normal"
+    }
+  ],
+  "cards": [],
+  "substitutions": [],
+  "stats": {
+    "homeCorners": 0,
+    "awayCorners": 0,
+    "homeShots": 3,
+    "awayShots": 2,
+    "homeShotsOnGoal": 3,
+    "awayShotsOnGoal": 2,
+    "homeOffsides": 0,
+    "awayOffsides": 0,
+    "homeFreekicks": 0,
+    "awayFreekicks": 0,
+    "homeYellowCards": 0,
+    "awayYellowCards": 0,
+    "homeRedCards": 0,
+    "awayRedCards": 0
+  },
+  "other": []
+}

@@ -1,0 +1,468 @@
+{
+  "matchId": 6529836,
+  "status": "FINISHED",
+  "score": {
+    "home": 0,
+    "away": 1,
+    "htHome": 0,
+    "htAway": 1
+  },
+  "referee": "Granit Maqedonci",
+  "goals": [
+    {
+      "minute": "11",
+      "team": "away",
+      "scorer": "Dari",
+      "assist": "",
+      "type": "Own"
+    }
+  ],
+  "cards": [
+    {
+      "minute": "6",
+      "team": "away",
+      "player": "Magnusson",
+      "cardType": "Yellow",
+      "isStaff": false
+    },
+    {
+      "minute": "57",
+      "team": "away",
+      "player": "Ring",
+      "cardType": "Yellow",
+      "isStaff": false
+    },
+    {
+      "minute": "60",
+      "team": "home",
+      "player": "Rosenqvist",
+      "cardType": "Yellow",
+      "isStaff": false
+    },
+    {
+      "minute": "90+4",
+      "team": "away",
+      "player": "Ring",
+      "cardType": "Yellow",
+      "isStaff": false
+    }
+  ],
+  "substitutions": [
+    {
+      "minute": "61",
+      "team": "home",
+      "playerIn": "Gojani",
+      "playerOut": "Hallberg"
+    },
+    {
+      "minute": "61",
+      "team": "home",
+      "playerIn": "Nnamani",
+      "playerOut": "Söderbäck"
+    },
+    {
+      "minute": "74",
+      "team": "away",
+      "playerIn": "Lushaku",
+      "playerOut": "Gunnarsson"
+    },
+    {
+      "minute": "74",
+      "team": "away",
+      "playerIn": "Boudah Saidi",
+      "playerOut": "Ladefoged"
+    },
+    {
+      "minute": "74",
+      "team": "away",
+      "playerIn": "Bonde",
+      "playerOut": "Baggesen"
+    },
+    {
+      "minute": "75",
+      "team": "home",
+      "playerIn": "Øverby",
+      "playerOut": "Chourak"
+    },
+    {
+      "minute": "75",
+      "team": "home",
+      "playerIn": "Sætra",
+      "playerOut": "Dari"
+    },
+    {
+      "minute": "86",
+      "team": "away",
+      "playerIn": "Karlsson",
+      "playerOut": "Wernersson"
+    }
+  ],
+  "stats": {
+    "homeCorners": 14,
+    "awayCorners": 5,
+    "homeShots": 10,
+    "awayShots": 6,
+    "homeShotsOnGoal": 5,
+    "awayShotsOnGoal": 4,
+    "homeOffsides": 0,
+    "awayOffsides": 0,
+    "homeFreekicks": 20,
+    "awayFreekicks": 15,
+    "homeYellowCards": 1,
+    "awayYellowCards": 1,
+    "homeRedCards": 0,
+    "awayRedCards": 0
+  },
+  "other": [
+    {
+      "minute": "1",
+      "team": "home",
+      "type": "Freekick"
+    },
+    {
+      "minute": "3",
+      "team": "home",
+      "type": "Freekick"
+    },
+    {
+      "minute": "4",
+      "team": "home",
+      "type": "Finish"
+    },
+    {
+      "minute": "4",
+      "team": "home",
+      "type": "Corner"
+    },
+    {
+      "minute": "5",
+      "team": "away",
+      "type": "Freekick"
+    },
+    {
+      "minute": "6",
+      "team": "home",
+      "type": "Freekick"
+    },
+    {
+      "minute": "9",
+      "team": "away",
+      "type": "Freekick"
+    },
+    {
+      "minute": "13",
+      "team": "home",
+      "type": "Freekick"
+    },
+    {
+      "minute": "14",
+      "team": "home",
+      "type": "Finish"
+    },
+    {
+      "minute": "14",
+      "team": "home",
+      "type": "Corner"
+    },
+    {
+      "minute": "16",
+      "team": "away",
+      "type": "Freekick"
+    },
+    {
+      "minute": "17",
+      "team": "away",
+      "type": "Finish"
+    },
+    {
+      "minute": "18",
+      "team": "home",
+      "type": "Freekick"
+    },
+    {
+      "minute": "19",
+      "team": "away",
+      "type": "Freekick"
+    },
+    {
+      "minute": "20",
+      "team": "home",
+      "type": "Freekick"
+    },
+    {
+      "minute": "22",
+      "team": "home",
+      "type": "Freekick"
+    },
+    {
+      "minute": "25",
+      "team": "away",
+      "type": "Freekick"
+    },
+    {
+      "minute": "28",
+      "team": "home",
+      "type": "Freekick"
+    },
+    {
+      "minute": "31",
+      "team": "home",
+      "type": "Freekick"
+    },
+    {
+      "minute": "32",
+      "team": "home",
+      "type": "Corner"
+    },
+    {
+      "minute": "32",
+      "team": "home",
+      "type": "Corner"
+    },
+    {
+      "minute": "33",
+      "team": "home",
+      "type": "Finish"
+    },
+    {
+      "minute": "33",
+      "team": "home",
+      "type": "Corner"
+    },
+    {
+      "minute": "35",
+      "team": "home",
+      "type": "Finish"
+    },
+    {
+      "minute": "37",
+      "team": "away",
+      "type": "Freekick"
+    },
+    {
+      "minute": "37",
+      "team": "home",
+      "type": "Corner"
+    },
+    {
+      "minute": "40",
+      "team": "home",
+      "type": "Freekick"
+    },
+    {
+      "minute": "41",
+      "team": "home",
+      "type": "Finish"
+    },
+    {
+      "minute": "41",
+      "team": "home",
+      "type": "Corner"
+    },
+    {
+      "minute": "41",
+      "team": "home",
+      "type": "Finish"
+    },
+    {
+      "minute": "45",
+      "team": "away",
+      "type": "Freekick"
+    },
+    {
+      "minute": "45+1",
+      "team": "away",
+      "type": "Freekick"
+    },
+    {
+      "minute": "46",
+      "team": "away",
+      "type": "Corner"
+    },
+    {
+      "minute": "46",
+      "team": "away",
+      "type": "Finish"
+    },
+    {
+      "minute": "47",
+      "team": "home",
+      "type": "Freekick"
+    },
+    {
+      "minute": "48",
+      "team": "home",
+      "type": "Freekick"
+    },
+    {
+      "minute": "49",
+      "team": "away",
+      "type": "Finish"
+    },
+    {
+      "minute": "50",
+      "team": "away",
+      "type": "Freekick"
+    },
+    {
+      "minute": "51",
+      "team": "home",
+      "type": "Freekick"
+    },
+    {
+      "minute": "55",
+      "team": "away",
+      "type": "Freekick"
+    },
+    {
+      "minute": "57",
+      "team": "home",
+      "type": "Freekick"
+    },
+    {
+      "minute": "57",
+      "team": "away",
+      "type": "Corner"
+    },
+    {
+      "minute": "59",
+      "team": "away",
+      "type": "Freekick"
+    },
+    {
+      "minute": "60",
+      "team": "home",
+      "type": "Freekick"
+    },
+    {
+      "minute": "62",
+      "team": "home",
+      "type": "Freekick"
+    },
+    {
+      "minute": "64",
+      "team": "away",
+      "type": "Finish"
+    },
+    {
+      "minute": "64",
+      "team": "away",
+      "type": "Corner"
+    },
+    {
+      "minute": "64",
+      "team": "away",
+      "type": "Corner"
+    },
+    {
+      "minute": "65",
+      "team": "away",
+      "type": "Corner"
+    },
+    {
+      "minute": "66",
+      "team": "home",
+      "type": "Corner"
+    },
+    {
+      "minute": "68",
+      "team": "home",
+      "type": "Finish"
+    },
+    {
+      "minute": "69",
+      "team": "home",
+      "type": "Freekick"
+    },
+    {
+      "minute": "70",
+      "team": "home",
+      "type": "Finish"
+    },
+    {
+      "minute": "72",
+      "team": "away",
+      "type": "Finish"
+    },
+    {
+      "minute": "73",
+      "team": "home",
+      "type": "Finish"
+    },
+    {
+      "minute": "78",
+      "team": "home",
+      "type": "Corner"
+    },
+    {
+      "minute": "78",
+      "team": "home",
+      "type": "Corner"
+    },
+    {
+      "minute": "79",
+      "team": "home",
+      "type": "Finish"
+    },
+    {
+      "minute": "79",
+      "team": "home",
+      "type": "Corner"
+    },
+    {
+      "minute": "81",
+      "team": "home",
+      "type": "Corner"
+    },
+    {
+      "minute": "82",
+      "team": "home",
+      "type": "Corner"
+    },
+    {
+      "minute": "83",
+      "team": "away",
+      "type": "Freekick"
+    },
+    {
+      "minute": "83",
+      "team": "home",
+      "type": "Corner"
+    },
+    {
+      "minute": "85",
+      "team": "home",
+      "type": "Freekick"
+    },
+    {
+      "minute": "87",
+      "team": "away",
+      "type": "Freekick"
+    },
+    {
+      "minute": "87",
+      "team": "home",
+      "type": "Freekick"
+    },
+    {
+      "minute": "89",
+      "team": "away",
+      "type": "Freekick"
+    },
+    {
+      "minute": "90+1",
+      "team": "away",
+      "type": "Freekick"
+    },
+    {
+      "minute": "90+4",
+      "team": "away",
+      "type": "Card"
+    },
+    {
+      "minute": "90+4",
+      "team": "home",
+      "type": "Freekick"
+    }
+  ]
+}

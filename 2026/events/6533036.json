@@ -1,0 +1,122 @@
+{
+  "matchId": 6533036,
+  "status": "FINISHED",
+  "score": {
+    "home": 11,
+    "away": 2,
+    "htHome": 5,
+    "htAway": 2
+  },
+  "referee": "Suhaib Qasim",
+  "goals": [
+    {
+      "minute": "6",
+      "team": "home",
+      "scorer": "Andreassen",
+      "assist": "",
+      "type": "Normal"
+    },
+    {
+      "minute": "22",
+      "team": "home",
+      "scorer": "Bjur",
+      "assist": "",
+      "type": "Normal"
+    },
+    {
+      "minute": "28",
+      "team": "home",
+      "scorer": "Drougge",
+      "assist": "",
+      "type": "Normal"
+    },
+    {
+      "minute": "41",
+      "team": "home",
+      "scorer": "Drougge",
+      "assist": "",
+      "type": "Normal"
+    },
+    {
+      "minute": "42",
+      "team": "home",
+      "scorer": "Engdar",
+      "assist": "",
+      "type": "Normal"
+    },
+    {
+      "minute": "43",
+      "team": "away",
+      "scorer": "Djuricic",
+      "assist": "",
+      "type": "Normal"
+    },
+    {
+      "minute": "46",
+      "team": "home",
+      "scorer": "Drougge",
+      "assist": "",
+      "type": "Normal"
+    },
+    {
+      "minute": "47",
+      "team": "home",
+      "scorer": "Bjur",
+      "assist": "",
+      "type": "Normal"
+    },
+    {
+      "minute": "60",
+      "team": "home",
+      "scorer": "Svensson",
+      "assist": "",
+      "type": "Normal"
+    },
+    {
+      "minute": "63",
+      "team": "home",
+      "scorer": "Drougge",
+      "assist": "",
+      "type": "Normal"
+    },
+    {
+      "minute": "69",
+      "team": "home",
+      "scorer": "Drougge",
+      "assist": "",
+      "type": "Normal"
+    },
+    {
+      "minute": "73",
+      "team": "home",
+      "scorer": "Drougge",
+      "assist": "",
+      "type": "Normal"
+    }
+  ],
+  "cards": [],
+  "substitutions": [],
+  "stats": {
+    "homeCorners": 0,
+    "awayCorners": 0,
+    "homeShots": 11,
+    "awayShots": 2,
+    "homeShotsOnGoal": 11,
+    "awayShotsOnGoal": 2,
+    "homeOffsides": 0,
+    "awayOffsides": 0,
+    "homeFreekicks": 0,
+    "awayFreekicks": 0,
+    "homeYellowCards": 0,
+    "awayYellowCards": 0,
+    "homeRedCards": 0,
+    "awayRedCards": 0
+  },
+  "other": [
+    {
+      "minute": "8",
+      "team": "away",
+      "type": "Goal"
+    }
+  ]
+}

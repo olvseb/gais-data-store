@@ -1,0 +1,75 @@
+{
+  "matchId": 6533005,
+  "status": "FINISHED",
+  "score": {
+    "home": 5,
+    "away": 0,
+    "htHome": 4,
+    "htAway": 0
+  },
+  "referee": "Christoffer Bergman",
+  "goals": [
+    {
+      "minute": "21",
+      "team": "home",
+      "scorer": "Bjur",
+      "assist": "",
+      "type": "Normal"
+    },
+    {
+      "minute": "24",
+      "team": "home",
+      "scorer": "Adolfsson",
+      "assist": "",
+      "type": "Normal"
+    },
+    {
+      "minute": "35",
+      "team": "home",
+      "scorer": "Lidström",
+      "assist": "",
+      "type": "Normal"
+    },
+    {
+      "minute": "36",
+      "team": "home",
+      "scorer": "Lidström",
+      "assist": "",
+      "type": "Normal"
+    },
+    {
+      "minute": "62",
+      "team": "home",
+      "scorer": "Asiainen",
+      "assist": "",
+      "type": "Normal"
+    }
+  ],
+  "cards": [
+    {
+      "minute": "86",
+      "team": "away",
+      "player": "Jerkhage",
+      "cardType": "Yellow",
+      "isStaff": false
+    }
+  ],
+  "substitutions": [],
+  "stats": {
+    "homeCorners": 0,
+    "awayCorners": 0,
+    "homeShots": 5,
+    "awayShots": 0,
+    "homeShotsOnGoal": 5,
+    "awayShotsOnGoal": 0,
+    "homeOffsides": 0,
+    "awayOffsides": 0,
+    "homeFreekicks": 0,
+    "awayFreekicks": 0,
+    "homeYellowCards": 0,
+    "awayYellowCards": 1,
+    "homeRedCards": 0,
+    "awayRedCards": 0
+  },
+  "other": []
+}

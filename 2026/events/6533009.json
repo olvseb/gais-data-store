@@ -1,0 +1,89 @@
+{
+  "matchId": 6533009,
+  "status": "FINISHED",
+  "score": {
+    "home": 4,
+    "away": 4,
+    "htHome": 2,
+    "htAway": 3
+  },
+  "referee": "Suhaib Qasim",
+  "goals": [
+    {
+      "minute": "22",
+      "team": "away",
+      "scorer": "Svensson",
+      "assist": "",
+      "type": "Normal"
+    },
+    {
+      "minute": "27",
+      "team": "away",
+      "scorer": "Svanberg",
+      "assist": "",
+      "type": "Normal"
+    },
+    {
+      "minute": "28",
+      "team": "home",
+      "scorer": "Skånberg",
+      "assist": "",
+      "type": "Normal"
+    },
+    {
+      "minute": "45",
+      "team": "away",
+      "scorer": "Stigen",
+      "assist": "",
+      "type": "Normal"
+    },
+    {
+      "minute": "61",
+      "team": "home",
+      "scorer": "Carlund",
+      "assist": "",
+      "type": "Normal"
+    },
+    {
+      "minute": "63",
+      "team": "home",
+      "scorer": "Carlund",
+      "assist": "",
+      "type": "Normal"
+    },
+    {
+      "minute": "75",
+      "team": "away",
+      "scorer": "Lundin",
+      "assist": "",
+      "type": "Normal"
+    }
+  ],
+  "cards": [
+    {
+      "minute": "80",
+      "team": "home",
+      "player": "Bohatsch",
+      "cardType": "Yellow",
+      "isStaff": false
+    }
+  ],
+  "substitutions": [],
+  "stats": {
+    "homeCorners": 0,
+    "awayCorners": 0,
+    "homeShots": 4,
+    "awayShots": 4,
+    "homeShotsOnGoal": 4,
+    "awayShotsOnGoal": 4,
+    "homeOffsides": 0,
+    "awayOffsides": 0,
+    "homeFreekicks": 0,
+    "awayFreekicks": 0,
+    "homeYellowCards": 1,
+    "awayYellowCards": 0,
+    "homeRedCards": 0,
+    "awayRedCards": 0
+  },
+  "other": []
+}

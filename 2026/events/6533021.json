@@ -1,0 +1,117 @@
+{
+  "matchId": 6533021,
+  "status": "FINISHED",
+  "score": {
+    "home": 4,
+    "away": 5,
+    "htHome": 1,
+    "htAway": 2
+  },
+  "referee": "Carlo Osadji",
+  "goals": [
+    {
+      "minute": "20",
+      "team": "home",
+      "scorer": "Åkerström",
+      "assist": "",
+      "type": "Normal"
+    },
+    {
+      "minute": "35",
+      "team": "away",
+      "scorer": "Nyblom",
+      "assist": "",
+      "type": "Normal"
+    },
+    {
+      "minute": "37",
+      "team": "away",
+      "scorer": "Karisik",
+      "assist": "",
+      "type": "Normal"
+    },
+    {
+      "minute": "51",
+      "team": "home",
+      "scorer": "Ekstrand",
+      "assist": "",
+      "type": "Normal"
+    },
+    {
+      "minute": "58",
+      "team": "home",
+      "scorer": "Rees",
+      "assist": "",
+      "type": "Normal"
+    },
+    {
+      "minute": "60",
+      "team": "home",
+      "scorer": "Engström",
+      "assist": "",
+      "type": "Normal"
+    },
+    {
+      "minute": "66",
+      "team": "away",
+      "scorer": "Hassel",
+      "assist": "",
+      "type": "Normal"
+    },
+    {
+      "minute": "70",
+      "team": "away",
+      "scorer": "Bandi",
+      "assist": "",
+      "type": "Normal"
+    },
+    {
+      "minute": "89",
+      "team": "away",
+      "scorer": "Blom",
+      "assist": "",
+      "type": "Normal"
+    }
+  ],
+  "cards": [
+    {
+      "minute": "19",
+      "team": "away",
+      "player": "Broljung",
+      "cardType": "Yellow",
+      "isStaff": false
+    },
+    {
+      "minute": "68",
+      "team": "away",
+      "player": "Karisik",
+      "cardType": "Yellow",
+      "isStaff": false
+    },
+    {
+      "minute": "71",
+      "team": "home",
+      "player": "Tilander",
+      "cardType": "Yellow",
+      "isStaff": false
+    }
+  ],
+  "substitutions": [],
+  "stats": {
+    "homeCorners": 0,
+    "awayCorners": 0,
+    "homeShots": 4,
+    "awayShots": 5,
+    "homeShotsOnGoal": 4,
+    "awayShotsOnGoal": 5,
+    "homeOffsides": 0,
+    "awayOffsides": 0,
+    "homeFreekicks": 0,
+    "awayFreekicks": 0,
+    "homeYellowCards": 1,
+    "awayYellowCards": 2,
+    "homeRedCards": 0,
+    "awayRedCards": 0
+  },
+  "other": []
+}

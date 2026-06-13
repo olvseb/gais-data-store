@@ -1,0 +1,68 @@
+{
+  "matchId": 6533019,
+  "status": "FINISHED",
+  "score": {
+    "home": 1,
+    "away": 3,
+    "htHome": 1,
+    "htAway": 1
+  },
+  "referee": "Blerim Ferati",
+  "goals": [
+    {
+      "minute": "37",
+      "team": "away",
+      "scorer": "Fredriksson",
+      "assist": "",
+      "type": "Normal"
+    },
+    {
+      "minute": "40",
+      "team": "home",
+      "scorer": "Zembo",
+      "assist": "",
+      "type": "Normal"
+    },
+    {
+      "minute": "61",
+      "team": "away",
+      "scorer": "Göransson",
+      "assist": "",
+      "type": "Normal"
+    },
+    {
+      "minute": "85",
+      "team": "away",
+      "scorer": "Karisik",
+      "assist": "",
+      "type": "Normal"
+    }
+  ],
+  "cards": [
+    {
+      "minute": "33",
+      "team": "away",
+      "player": "Bandi, tränare",
+      "cardType": "Yellow",
+      "isStaff": true
+    }
+  ],
+  "substitutions": [],
+  "stats": {
+    "homeCorners": 0,
+    "awayCorners": 0,
+    "homeShots": 1,
+    "awayShots": 3,
+    "homeShotsOnGoal": 1,
+    "awayShotsOnGoal": 3,
+    "homeOffsides": 0,
+    "awayOffsides": 0,
+    "homeFreekicks": 0,
+    "awayFreekicks": 0,
+    "homeYellowCards": 0,
+    "awayYellowCards": 0,
+    "homeRedCards": 0,
+    "awayRedCards": 0
+  },
+  "other": []
+}

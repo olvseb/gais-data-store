@@ -1,0 +1,81 @@
+{
+  "matchId": 6532988,
+  "status": "FINISHED",
+  "score": {
+    "home": 4,
+    "away": 2,
+    "htHome": 3,
+    "htAway": 0
+  },
+  "referee": "Christoffer Bergman",
+  "goals": [
+    {
+      "minute": "9",
+      "team": "home",
+      "scorer": "Lundin",
+      "assist": "",
+      "type": "Normal"
+    },
+    {
+      "minute": "27",
+      "team": "home",
+      "scorer": "Lind",
+      "assist": "",
+      "type": "Normal"
+    },
+    {
+      "minute": "38",
+      "team": "home",
+      "scorer": "Lind",
+      "assist": "",
+      "type": "Normal"
+    },
+    {
+      "minute": "57",
+      "team": "away",
+      "scorer": "Brandt",
+      "assist": "",
+      "type": "Normal"
+    },
+    {
+      "minute": "70",
+      "team": "away",
+      "scorer": "Arnesson",
+      "assist": "",
+      "type": "Normal"
+    }
+  ],
+  "cards": [
+    {
+      "minute": "17",
+      "team": "away",
+      "player": "Persson",
+      "cardType": "Yellow",
+      "isStaff": false
+    }
+  ],
+  "substitutions": [],
+  "stats": {
+    "homeCorners": 0,
+    "awayCorners": 0,
+    "homeShots": 4,
+    "awayShots": 2,
+    "homeShotsOnGoal": 4,
+    "awayShotsOnGoal": 2,
+    "homeOffsides": 0,
+    "awayOffsides": 0,
+    "homeFreekicks": 0,
+    "awayFreekicks": 0,
+    "homeYellowCards": 0,
+    "awayYellowCards": 1,
+    "homeRedCards": 0,
+    "awayRedCards": 0
+  },
+  "other": [
+    {
+      "minute": "74",
+      "team": "home",
+      "type": "Goal"
+    }
+  ]
+}

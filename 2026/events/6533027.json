@@ -1,0 +1,82 @@
+{
+  "matchId": 6533027,
+  "status": "FINISHED",
+  "score": {
+    "home": 2,
+    "away": 4,
+    "htHome": 1,
+    "htAway": 1
+  },
+  "referee": "Tito Kurkinen",
+  "goals": [
+    {
+      "minute": "29",
+      "team": "home",
+      "scorer": "Karisik",
+      "assist": "",
+      "type": "Normal"
+    },
+    {
+      "minute": "30",
+      "team": "away",
+      "scorer": "Vetterberg",
+      "assist": "",
+      "type": "Normal"
+    },
+    {
+      "minute": "51",
+      "team": "away",
+      "scorer": "Svensson",
+      "assist": "",
+      "type": "Normal"
+    },
+    {
+      "minute": "68",
+      "team": "away",
+      "scorer": "Erlandsson",
+      "assist": "",
+      "type": "Normal"
+    },
+    {
+      "minute": "79",
+      "team": "away",
+      "scorer": "Hjort",
+      "assist": "",
+      "type": "Normal"
+    },
+    {
+      "minute": "88",
+      "team": "home",
+      "scorer": "Chamoun",
+      "assist": "",
+      "type": "Normal"
+    }
+  ],
+  "cards": [
+    {
+      "minute": "69",
+      "team": "away",
+      "player": "Sommarblad",
+      "cardType": "Yellow",
+      "isStaff": false
+    }
+  ],
+  "substitutions": [],
+  "stats": {
+    "homeCorners": 0,
+    "awayCorners": 0,
+    "homeShots": 2,
+    "awayShots": 4,
+    "homeShotsOnGoal": 2,
+    "awayShotsOnGoal": 4,
+    "homeOffsides": 0,
+    "awayOffsides": 0,
+    "homeFreekicks": 0,
+    "awayFreekicks": 0,
+    "homeYellowCards": 0,
+    "awayYellowCards": 1,
+    "homeRedCards": 0,
+    "awayRedCards": 0
+  },
+  "other": []
+}

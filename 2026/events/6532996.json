@@ -1,0 +1,68 @@
+{
+  "matchId": 6532996,
+  "status": "FINISHED",
+  "score": {
+    "home": 2,
+    "away": 2,
+    "htHome": 1,
+    "htAway": 0
+  },
+  "referee": "Cristian Badescu",
+  "goals": [
+    {
+      "minute": "12",
+      "team": "home",
+      "scorer": "Lundqvist",
+      "assist": "",
+      "type": "Normal"
+    },
+    {
+      "minute": "60",
+      "team": "away",
+      "scorer": "Lindén",
+      "assist": "",
+      "type": "Normal"
+    },
+    {
+      "minute": "68",
+      "team": "away",
+      "scorer": "Wennergrund",
+      "assist": "",
+      "type": "Normal"
+    },
+    {
+      "minute": "81",
+      "team": "home",
+      "scorer": "Vetterberg",
+      "assist": "",
+      "type": "Normal"
+    }
+  ],
+  "cards": [
+    {
+      "minute": "72",
+      "team": "away",
+      "player": "Wilén",
+      "cardType": "Yellow",
+      "isStaff": false
+    }
+  ],
+  "substitutions": [],
+  "stats": {
+    "homeCorners": 0,
+    "awayCorners": 0,
+    "homeShots": 2,
+    "awayShots": 2,
+    "homeShotsOnGoal": 2,
+    "awayShotsOnGoal": 2,
+    "homeOffsides": 0,
+    "awayOffsides": 0,
+    "homeFreekicks": 0,
+    "awayFreekicks": 0,
+    "homeYellowCards": 0,
+    "awayYellowCards": 1,
+    "homeRedCards": 0,
+    "awayRedCards": 0
+  },
+  "other": []
+}

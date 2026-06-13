@@ -1,0 +1,82 @@
+{
+  "matchId": 6532983,
+  "status": "FINISHED",
+  "score": {
+    "home": 4,
+    "away": 2,
+    "htHome": 3,
+    "htAway": 0
+  },
+  "referee": "Suhaib Qasim",
+  "goals": [
+    {
+      "minute": "12",
+      "team": "home",
+      "scorer": "Westberg",
+      "assist": "",
+      "type": "Normal"
+    },
+    {
+      "minute": "13",
+      "team": "home",
+      "scorer": "Ionescu",
+      "assist": "",
+      "type": "Normal"
+    },
+    {
+      "minute": "19",
+      "team": "home",
+      "scorer": "Winberg",
+      "assist": "",
+      "type": "Normal"
+    },
+    {
+      "minute": "46",
+      "team": "home",
+      "scorer": "Westberg",
+      "assist": "",
+      "type": "Normal"
+    },
+    {
+      "minute": "49",
+      "team": "away",
+      "scorer": "Magner",
+      "assist": "",
+      "type": "Normal"
+    },
+    {
+      "minute": "80",
+      "team": "away",
+      "scorer": "Kristiansson Ritvall",
+      "assist": "",
+      "type": "Normal"
+    }
+  ],
+  "cards": [
+    {
+      "minute": "57",
+      "team": "home",
+      "player": "Sandh",
+      "cardType": "Yellow",
+      "isStaff": false
+    }
+  ],
+  "substitutions": [],
+  "stats": {
+    "homeCorners": 0,
+    "awayCorners": 0,
+    "homeShots": 4,
+    "awayShots": 2,
+    "homeShotsOnGoal": 4,
+    "awayShotsOnGoal": 2,
+    "homeOffsides": 0,
+    "awayOffsides": 0,
+    "homeFreekicks": 0,
+    "awayFreekicks": 0,
+    "homeYellowCards": 1,
+    "awayYellowCards": 0,
+    "homeRedCards": 0,
+    "awayRedCards": 0
+  },
+  "other": []
+}

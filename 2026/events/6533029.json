@@ -1,0 +1,96 @@
+{
+  "matchId": 6533029,
+  "status": "FINISHED",
+  "score": {
+    "home": 0,
+    "away": 6,
+    "htHome": 0,
+    "htAway": 3
+  },
+  "referee": "Carlo Osadji",
+  "goals": [
+    {
+      "minute": "12",
+      "team": "away",
+      "scorer": "Pernsved",
+      "assist": "",
+      "type": "Normal"
+    },
+    {
+      "minute": "19",
+      "team": "away",
+      "scorer": "Söderström",
+      "assist": "",
+      "type": "Normal"
+    },
+    {
+      "minute": "30",
+      "team": "away",
+      "scorer": "Ekner",
+      "assist": "",
+      "type": "Normal"
+    },
+    {
+      "minute": "58",
+      "team": "away",
+      "scorer": "Pernsved",
+      "assist": "",
+      "type": "Normal"
+    },
+    {
+      "minute": "63",
+      "team": "away",
+      "scorer": "Söderström",
+      "assist": "",
+      "type": "Normal"
+    },
+    {
+      "minute": "86",
+      "team": "away",
+      "scorer": "Karlsson",
+      "assist": "",
+      "type": "Normal"
+    }
+  ],
+  "cards": [
+    {
+      "minute": "18",
+      "team": "home",
+      "player": "Svanberg",
+      "cardType": "Yellow",
+      "isStaff": false
+    },
+    {
+      "minute": "23",
+      "team": "away",
+      "player": "Hedström",
+      "cardType": "Yellow",
+      "isStaff": false
+    },
+    {
+      "minute": "80",
+      "team": "home",
+      "player": "Lundin",
+      "cardType": "Yellow",
+      "isStaff": false
+    }
+  ],
+  "substitutions": [],
+  "stats": {
+    "homeCorners": 0,
+    "awayCorners": 0,
+    "homeShots": 0,
+    "awayShots": 6,
+    "homeShotsOnGoal": 0,
+    "awayShotsOnGoal": 6,
+    "homeOffsides": 0,
+    "awayOffsides": 0,
+    "homeFreekicks": 0,
+    "awayFreekicks": 0,
+    "homeYellowCards": 2,
+    "awayYellowCards": 1,
+    "homeRedCards": 0,
+    "awayRedCards": 0
+  },
+  "other": []
+}

@@ -1,0 +1,68 @@
+{
+  "matchId": 6532980,
+  "status": "FINISHED",
+  "score": {
+    "home": 2,
+    "away": 0,
+    "htHome": 1,
+    "htAway": 0
+  },
+  "referee": "Wilma Kanerva",
+  "goals": [
+    {
+      "minute": "21",
+      "team": "home",
+      "scorer": "Persson",
+      "assist": "",
+      "type": "Normal"
+    },
+    {
+      "minute": "65",
+      "team": "home",
+      "scorer": "Byberg",
+      "assist": "",
+      "type": "Normal"
+    }
+  ],
+  "cards": [
+    {
+      "minute": "35",
+      "team": "home",
+      "player": "Rees Fager",
+      "cardType": "Yellow",
+      "isStaff": false
+    },
+    {
+      "minute": "55",
+      "team": "away",
+      "player": "Bandi, tränare",
+      "cardType": "Yellow",
+      "isStaff": true
+    },
+    {
+      "minute": "62",
+      "team": "away",
+      "player": "Bandi",
+      "cardType": "Yellow",
+      "isStaff": false
+    }
+  ],
+  "substitutions": [],
+  "stats": {
+    "homeCorners": 0,
+    "awayCorners": 0,
+    "homeShots": 2,
+    "awayShots": 0,
+    "homeShotsOnGoal": 2,
+    "awayShotsOnGoal": 0,
+    "homeOffsides": 0,
+    "awayOffsides": 0,
+    "homeFreekicks": 0,
+    "awayFreekicks": 0,
+    "homeYellowCards": 1,
+    "awayYellowCards": 1,
+    "homeRedCards": 0,
+    "awayRedCards": 0
+  },
+  "other": []
+}

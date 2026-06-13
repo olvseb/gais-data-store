@@ -1,0 +1,81 @@
+{
+  "matchId": 6533000,
+  "status": "FINISHED",
+  "score": {
+    "home": 2,
+    "away": 1,
+    "htHome": 2,
+    "htAway": 0
+  },
+  "referee": "Daniel Larsson",
+  "goals": [
+    {
+      "minute": "16",
+      "team": "home",
+      "scorer": "Ekner",
+      "assist": "",
+      "type": "Normal"
+    },
+    {
+      "minute": "30",
+      "team": "home",
+      "scorer": "Söderström",
+      "assist": "",
+      "type": "Normal"
+    },
+    {
+      "minute": "51",
+      "team": "away",
+      "scorer": "Larson",
+      "assist": "",
+      "type": "Normal"
+    }
+  ],
+  "cards": [
+    {
+      "minute": "33",
+      "team": "away",
+      "player": "Sandh",
+      "cardType": "Yellow",
+      "isStaff": false
+    },
+    {
+      "minute": "75",
+      "team": "away",
+      "player": "Podvorec",
+      "cardType": "Yellow",
+      "isStaff": false
+    },
+    {
+      "minute": "84",
+      "team": "home",
+      "player": "Söderström",
+      "cardType": "Yellow",
+      "isStaff": false
+    }
+  ],
+  "substitutions": [],
+  "stats": {
+    "homeCorners": 0,
+    "awayCorners": 0,
+    "homeShots": 2,
+    "awayShots": 1,
+    "homeShotsOnGoal": 2,
+    "awayShotsOnGoal": 1,
+    "homeOffsides": 0,
+    "awayOffsides": 0,
+    "homeFreekicks": 0,
+    "awayFreekicks": 0,
+    "homeYellowCards": 1,
+    "awayYellowCards": 2,
+    "homeRedCards": 0,
+    "awayRedCards": 1
+  },
+  "other": [
+    {
+      "minute": "84",
+      "team": "away",
+      "type": "Card"
+    }
+  ]
+}

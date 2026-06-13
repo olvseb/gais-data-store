@@ -1,0 +1,53 @@
+{
+  "matchId": 6533003,
+  "status": "FINISHED",
+  "score": {
+    "home": 1,
+    "away": 2,
+    "htHome": 0,
+    "htAway": 1
+  },
+  "referee": "Yosuf Amiri",
+  "goals": [
+    {
+      "minute": "26",
+      "team": "away",
+      "scorer": "Rees",
+      "assist": "",
+      "type": "Normal"
+    },
+    {
+      "minute": "49",
+      "team": "home",
+      "scorer": "Djuricic",
+      "assist": "",
+      "type": "Normal"
+    },
+    {
+      "minute": "77",
+      "team": "away",
+      "scorer": "Lipic Hopmoen",
+      "assist": "",
+      "type": "Normal"
+    }
+  ],
+  "cards": [],
+  "substitutions": [],
+  "stats": {
+    "homeCorners": 0,
+    "awayCorners": 0,
+    "homeShots": 1,
+    "awayShots": 2,
+    "homeShotsOnGoal": 1,
+    "awayShotsOnGoal": 2,
+    "homeOffsides": 0,
+    "awayOffsides": 0,
+    "homeFreekicks": 0,
+    "awayFreekicks": 0,
+    "homeYellowCards": 0,
+    "awayYellowCards": 0,
+    "homeRedCards": 0,
+    "awayRedCards": 0
+  },
+  "other": []
+}

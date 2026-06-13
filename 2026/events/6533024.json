@@ -1,0 +1,103 @@
+{
+  "matchId": 6533024,
+  "status": "FINISHED",
+  "score": {
+    "home": 5,
+    "away": 2,
+    "htHome": 1,
+    "htAway": 2
+  },
+  "referee": "Wilma Kanerva",
+  "goals": [
+    {
+      "minute": "17",
+      "team": "home",
+      "scorer": "Cruse",
+      "assist": "",
+      "type": "Normal"
+    },
+    {
+      "minute": "30",
+      "team": "away",
+      "scorer": "Djuricic",
+      "assist": "",
+      "type": "Normal"
+    },
+    {
+      "minute": "40",
+      "team": "away",
+      "scorer": "Edvinsson",
+      "assist": "",
+      "type": "Normal"
+    },
+    {
+      "minute": "53",
+      "team": "home",
+      "scorer": "Ekner",
+      "assist": "",
+      "type": "Normal"
+    },
+    {
+      "minute": "56",
+      "team": "home",
+      "scorer": "Ekner",
+      "assist": "",
+      "type": "Normal"
+    },
+    {
+      "minute": "60",
+      "team": "home",
+      "scorer": "Hedström",
+      "assist": "",
+      "type": "Normal"
+    },
+    {
+      "minute": "91",
+      "team": "home",
+      "scorer": "Pernsved",
+      "assist": "",
+      "type": "Normal"
+    }
+  ],
+  "cards": [
+    {
+      "minute": "40",
+      "team": "home",
+      "player": "Cruse",
+      "cardType": "Yellow",
+      "isStaff": false
+    },
+    {
+      "minute": "46",
+      "team": "home",
+      "player": "Klasson",
+      "cardType": "Yellow",
+      "isStaff": false
+    },
+    {
+      "minute": "73",
+      "team": "away",
+      "player": "Werder",
+      "cardType": "Yellow",
+      "isStaff": false
+    }
+  ],
+  "substitutions": [],
+  "stats": {
+    "homeCorners": 0,
+    "awayCorners": 0,
+    "homeShots": 5,
+    "awayShots": 2,
+    "homeShotsOnGoal": 5,
+    "awayShotsOnGoal": 2,
+    "homeOffsides": 0,
+    "awayOffsides": 0,
+    "homeFreekicks": 0,
+    "awayFreekicks": 0,
+    "homeYellowCards": 2,
+    "awayYellowCards": 1,
+    "homeRedCards": 0,
+    "awayRedCards": 0
+  },
+  "other": []
+}

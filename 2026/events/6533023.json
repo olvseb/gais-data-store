@@ -1,0 +1,60 @@
+{
+  "matchId": 6533023,
+  "status": "FINISHED",
+  "score": {
+    "home": 1,
+    "away": 3,
+    "htHome": 1,
+    "htAway": 0
+  },
+  "referee": "Amir Huseinovic",
+  "goals": [
+    {
+      "minute": "20",
+      "team": "home",
+      "scorer": "Rees Fager",
+      "assist": "",
+      "type": "Normal"
+    },
+    {
+      "minute": "60",
+      "team": "away",
+      "scorer": "Josefsson",
+      "assist": "",
+      "type": "Normal"
+    },
+    {
+      "minute": "75",
+      "team": "away",
+      "scorer": "Montan",
+      "assist": "",
+      "type": "Normal"
+    },
+    {
+      "minute": "80",
+      "team": "away",
+      "scorer": "Henrysson",
+      "assist": "",
+      "type": "Normal"
+    }
+  ],
+  "cards": [],
+  "substitutions": [],
+  "stats": {
+    "homeCorners": 0,
+    "awayCorners": 0,
+    "homeShots": 1,
+    "awayShots": 3,
+    "homeShotsOnGoal": 1,
+    "awayShotsOnGoal": 3,
+    "homeOffsides": 0,
+    "awayOffsides": 0,
+    "homeFreekicks": 0,
+    "awayFreekicks": 0,
+    "homeYellowCards": 0,
+    "awayYellowCards": 0,
+    "homeRedCards": 0,
+    "awayRedCards": 0
+  },
+  "other": []
+}

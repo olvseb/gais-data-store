@@ -1,0 +1,31 @@
+{
+  "matchId": 6532984,
+  "status": "CANCELED",
+  "score": {
+    "home": 0,
+    "away": 4,
+    "htHome": 0,
+    "htAway": 4
+  },
+  "referee": "",
+  "goals": [],
+  "cards": [],
+  "substitutions": [],
+  "stats": {
+    "homeCorners": 0,
+    "awayCorners": 0,
+    "homeShots": 0,
+    "awayShots": 0,
+    "homeShotsOnGoal": 0,
+    "awayShotsOnGoal": 0,
+    "homeOffsides": 0,
+    "awayOffsides": 0,
+    "homeFreekicks": 0,
+    "awayFreekicks": 0,
+    "homeYellowCards": 0,
+    "awayYellowCards": 0,
+    "homeRedCards": 0,
+    "awayRedCards": 0
+  },
+  "other": []
+}

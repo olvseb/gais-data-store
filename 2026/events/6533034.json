@@ -1,0 +1,102 @@
+{
+  "matchId": 6533034,
+  "status": "FINISHED",
+  "score": {
+    "home": 5,
+    "away": 3,
+    "htHome": 1,
+    "htAway": 2
+  },
+  "referee": "Lalo Salih",
+  "goals": [
+    {
+      "minute": "5",
+      "team": "home",
+      "scorer": "Engman",
+      "assist": "",
+      "type": "Normal"
+    },
+    {
+      "minute": "29",
+      "team": "away",
+      "scorer": "Kühnel Pappila",
+      "assist": "",
+      "type": "Normal"
+    },
+    {
+      "minute": "33",
+      "team": "away",
+      "scorer": "Kühnel Pappila",
+      "assist": "",
+      "type": "Normal"
+    },
+    {
+      "minute": "52",
+      "team": "home",
+      "scorer": "Engman",
+      "assist": "",
+      "type": "Normal"
+    },
+    {
+      "minute": "62",
+      "team": "home",
+      "scorer": "Salmeron",
+      "assist": "",
+      "type": "Normal"
+    },
+    {
+      "minute": "75",
+      "team": "home",
+      "scorer": "Engman",
+      "assist": "",
+      "type": "Normal"
+    },
+    {
+      "minute": "91",
+      "team": "home",
+      "scorer": "Engman",
+      "assist": "",
+      "type": "Normal"
+    }
+  ],
+  "cards": [
+    {
+      "minute": "38",
+      "team": "home",
+      "player": "Ekner",
+      "cardType": "Yellow",
+      "isStaff": false
+    },
+    {
+      "minute": "61",
+      "team": "home",
+      "player": "Karlsson",
+      "cardType": "Yellow",
+      "isStaff": false
+    }
+  ],
+  "substitutions": [],
+  "stats": {
+    "homeCorners": 0,
+    "awayCorners": 0,
+    "homeShots": 5,
+    "awayShots": 3,
+    "homeShotsOnGoal": 5,
+    "awayShotsOnGoal": 3,
+    "homeOffsides": 0,
+    "awayOffsides": 0,
+    "homeFreekicks": 0,
+    "awayFreekicks": 0,
+    "homeYellowCards": 2,
+    "awayYellowCards": 0,
+    "homeRedCards": 0,
+    "awayRedCards": 0
+  },
+  "other": [
+    {
+      "minute": "83",
+      "team": "away",
+      "type": "Penalty goal"
+    }
+  ]
+}

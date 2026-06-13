@@ -1,0 +1,54 @@
+{
+  "matchId": 6532981,
+  "status": "FINISHED",
+  "score": {
+    "home": 2,
+    "away": 0,
+    "htHome": 0,
+    "htAway": 0
+  },
+  "referee": "Wilma Kanerva",
+  "goals": [
+    {
+      "minute": "67",
+      "team": "home",
+      "scorer": "Cruse",
+      "assist": "",
+      "type": "Normal"
+    },
+    {
+      "minute": "69",
+      "team": "home",
+      "scorer": "Söderström",
+      "assist": "",
+      "type": "Normal"
+    }
+  ],
+  "cards": [
+    {
+      "minute": "89",
+      "team": "home",
+      "player": "Söderström",
+      "cardType": "Yellow",
+      "isStaff": false
+    }
+  ],
+  "substitutions": [],
+  "stats": {
+    "homeCorners": 0,
+    "awayCorners": 0,
+    "homeShots": 2,
+    "awayShots": 0,
+    "homeShotsOnGoal": 2,
+    "awayShotsOnGoal": 0,
+    "homeOffsides": 0,
+    "awayOffsides": 0,
+    "homeFreekicks": 0,
+    "awayFreekicks": 0,
+    "homeYellowCards": 1,
+    "awayYellowCards": 0,
+    "homeRedCards": 0,
+    "awayRedCards": 0
+  },
+  "other": []
+}

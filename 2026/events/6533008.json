@@ -1,0 +1,81 @@
+{
+  "matchId": 6533008,
+  "status": "FINISHED",
+  "score": {
+    "home": 3,
+    "away": 1,
+    "htHome": 0,
+    "htAway": 0
+  },
+  "referee": "Gebremeskel Elias",
+  "goals": [
+    {
+      "minute": "60",
+      "team": "home",
+      "scorer": "Svensson",
+      "assist": "",
+      "type": "Normal"
+    },
+    {
+      "minute": "70",
+      "team": "home",
+      "scorer": "Svensson",
+      "assist": "",
+      "type": "Normal"
+    },
+    {
+      "minute": "73",
+      "team": "home",
+      "scorer": "Svensson",
+      "assist": "",
+      "type": "Normal"
+    },
+    {
+      "minute": "82",
+      "team": "away",
+      "scorer": "Persson",
+      "assist": "",
+      "type": "Normal"
+    }
+  ],
+  "cards": [
+    {
+      "minute": "50",
+      "team": "away",
+      "player": "Malm",
+      "cardType": "Yellow",
+      "isStaff": false
+    },
+    {
+      "minute": "80",
+      "team": "home",
+      "player": "Sommarblad",
+      "cardType": "Yellow",
+      "isStaff": false
+    }
+  ],
+  "substitutions": [],
+  "stats": {
+    "homeCorners": 0,
+    "awayCorners": 0,
+    "homeShots": 3,
+    "awayShots": 1,
+    "homeShotsOnGoal": 3,
+    "awayShotsOnGoal": 1,
+    "homeOffsides": 0,
+    "awayOffsides": 0,
+    "homeFreekicks": 0,
+    "awayFreekicks": 0,
+    "homeYellowCards": 1,
+    "awayYellowCards": 1,
+    "homeRedCards": 0,
+    "awayRedCards": 1
+  },
+  "other": [
+    {
+      "minute": "34",
+      "team": "away",
+      "type": "Card"
+    }
+  ]
+}

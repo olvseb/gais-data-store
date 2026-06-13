@@ -1,0 +1,67 @@
+{
+  "matchId": 6532990,
+  "status": "FINISHED",
+  "score": {
+    "home": 3,
+    "away": 2,
+    "htHome": 0,
+    "htAway": 1
+  },
+  "referee": "Daniel Nensing",
+  "goals": [
+    {
+      "minute": "15",
+      "team": "away",
+      "scorer": "Årstadius",
+      "assist": "",
+      "type": "Normal"
+    },
+    {
+      "minute": "61",
+      "team": "home",
+      "scorer": "Brandt",
+      "assist": "",
+      "type": "Normal"
+    },
+    {
+      "minute": "67",
+      "team": "home",
+      "scorer": "Ahlstrand",
+      "assist": "",
+      "type": "Normal"
+    },
+    {
+      "minute": "75",
+      "team": "away",
+      "scorer": "Wåhlin",
+      "assist": "",
+      "type": "Normal"
+    },
+    {
+      "minute": "90",
+      "team": "home",
+      "scorer": "Persson",
+      "assist": "",
+      "type": "Normal"
+    }
+  ],
+  "cards": [],
+  "substitutions": [],
+  "stats": {
+    "homeCorners": 0,
+    "awayCorners": 0,
+    "homeShots": 3,
+    "awayShots": 2,
+    "homeShotsOnGoal": 3,
+    "awayShotsOnGoal": 2,
+    "homeOffsides": 0,
+    "awayOffsides": 0,
+    "homeFreekicks": 0,
+    "awayFreekicks": 0,
+    "homeYellowCards": 0,
+    "awayYellowCards": 0,
+    "homeRedCards": 0,
+    "awayRedCards": 0
+  },
+  "other": []
+}

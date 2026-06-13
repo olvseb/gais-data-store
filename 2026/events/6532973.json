@@ -1,0 +1,60 @@
+{
+  "matchId": 6532973,
+  "status": "FINISHED",
+  "score": {
+    "home": 2,
+    "away": 1,
+    "htHome": 1,
+    "htAway": 1
+  },
+  "referee": "Mohamed Hassan Mohamed",
+  "goals": [
+    {
+      "minute": "21",
+      "team": "home",
+      "scorer": "Lipic Hopmoen",
+      "assist": "",
+      "type": "Normal"
+    },
+    {
+      "minute": "38",
+      "team": "away",
+      "scorer": "Eriksson Ekholm",
+      "assist": "",
+      "type": "Normal"
+    }
+  ],
+  "cards": [
+    {
+      "minute": "89",
+      "team": "home",
+      "player": "Meijer",
+      "cardType": "Yellow",
+      "isStaff": false
+    }
+  ],
+  "substitutions": [],
+  "stats": {
+    "homeCorners": 0,
+    "awayCorners": 0,
+    "homeShots": 2,
+    "awayShots": 1,
+    "homeShotsOnGoal": 2,
+    "awayShotsOnGoal": 1,
+    "homeOffsides": 0,
+    "awayOffsides": 0,
+    "homeFreekicks": 0,
+    "awayFreekicks": 0,
+    "homeYellowCards": 1,
+    "awayYellowCards": 0,
+    "homeRedCards": 0,
+    "awayRedCards": 0
+  },
+  "other": [
+    {
+      "minute": "76",
+      "team": "home",
+      "type": "Penalty goal"
+    }
+  ]
+}

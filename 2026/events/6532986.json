@@ -1,0 +1,60 @@
+{
+  "matchId": 6532986,
+  "status": "FINISHED",
+  "score": {
+    "home": 3,
+    "away": 1,
+    "htHome": 2,
+    "htAway": 0
+  },
+  "referee": "Rami Alkurdi",
+  "goals": [
+    {
+      "minute": "1",
+      "team": "home",
+      "scorer": "Nyblom",
+      "assist": "",
+      "type": "Normal"
+    },
+    {
+      "minute": "20",
+      "team": "home",
+      "scorer": "Fredriksson",
+      "assist": "",
+      "type": "Normal"
+    },
+    {
+      "minute": "76",
+      "team": "away",
+      "scorer": "Adolfsson",
+      "assist": "",
+      "type": "Normal"
+    },
+    {
+      "minute": "81",
+      "team": "home",
+      "scorer": "Bandi",
+      "assist": "",
+      "type": "Normal"
+    }
+  ],
+  "cards": [],
+  "substitutions": [],
+  "stats": {
+    "homeCorners": 0,
+    "awayCorners": 0,
+    "homeShots": 3,
+    "awayShots": 1,
+    "homeShotsOnGoal": 3,
+    "awayShotsOnGoal": 1,
+    "homeOffsides": 0,
+    "awayOffsides": 0,
+    "homeFreekicks": 0,
+    "awayFreekicks": 0,
+    "homeYellowCards": 0,
+    "awayYellowCards": 0,
+    "homeRedCards": 0,
+    "awayRedCards": 0
+  },
+  "other": []
+}

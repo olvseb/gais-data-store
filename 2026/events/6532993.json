@@ -1,0 +1,61 @@
+{
+  "matchId": 6532993,
+  "status": "FINISHED",
+  "score": {
+    "home": 3,
+    "away": 0,
+    "htHome": 1,
+    "htAway": 0
+  },
+  "referee": "Daniel Larsson",
+  "goals": [
+    {
+      "minute": "39",
+      "team": "home",
+      "scorer": "Mohammad",
+      "assist": "",
+      "type": "Normal"
+    },
+    {
+      "minute": "47",
+      "team": "home",
+      "scorer": "Svensson",
+      "assist": "",
+      "type": "Normal"
+    },
+    {
+      "minute": "49",
+      "team": "home",
+      "scorer": "Byberg",
+      "assist": "",
+      "type": "Normal"
+    }
+  ],
+  "cards": [
+    {
+      "minute": "49",
+      "team": "home",
+      "player": "Rees Fager",
+      "cardType": "Yellow",
+      "isStaff": false
+    }
+  ],
+  "substitutions": [],
+  "stats": {
+    "homeCorners": 0,
+    "awayCorners": 0,
+    "homeShots": 3,
+    "awayShots": 0,
+    "homeShotsOnGoal": 3,
+    "awayShotsOnGoal": 0,
+    "homeOffsides": 0,
+    "awayOffsides": 0,
+    "homeFreekicks": 0,
+    "awayFreekicks": 0,
+    "homeYellowCards": 1,
+    "awayYellowCards": 0,
+    "homeRedCards": 0,
+    "awayRedCards": 0
+  },
+  "other": []
+}

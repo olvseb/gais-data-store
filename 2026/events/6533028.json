@@ -1,0 +1,68 @@
+{
+  "matchId": 6533028,
+  "status": "FINISHED",
+  "score": {
+    "home": 2,
+    "away": 1,
+    "htHome": 1,
+    "htAway": 0
+  },
+  "referee": "Christoffer Bergman",
+  "goals": [
+    {
+      "minute": "45",
+      "team": "home",
+      "scorer": "Årstadius",
+      "assist": "",
+      "type": "Normal"
+    },
+    {
+      "minute": "52",
+      "team": "home",
+      "scorer": "Årstadius",
+      "assist": "",
+      "type": "Normal"
+    },
+    {
+      "minute": "63",
+      "team": "away",
+      "scorer": "Simonsson",
+      "assist": "",
+      "type": "Normal"
+    }
+  ],
+  "cards": [
+    {
+      "minute": "77",
+      "team": "away",
+      "player": "Andersson, tränare",
+      "cardType": "Yellow",
+      "isStaff": true
+    },
+    {
+      "minute": "88",
+      "team": "away",
+      "player": "Jerkhage, kontaktperson",
+      "cardType": "Yellow",
+      "isStaff": true
+    }
+  ],
+  "substitutions": [],
+  "stats": {
+    "homeCorners": 0,
+    "awayCorners": 0,
+    "homeShots": 2,
+    "awayShots": 1,
+    "homeShotsOnGoal": 2,
+    "awayShotsOnGoal": 1,
+    "homeOffsides": 0,
+    "awayOffsides": 0,
+    "homeFreekicks": 0,
+    "awayFreekicks": 0,
+    "homeYellowCards": 0,
+    "awayYellowCards": 0,
+    "homeRedCards": 0,
+    "awayRedCards": 0
+  },
+  "other": []
+}

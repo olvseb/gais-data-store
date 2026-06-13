@@ -1,0 +1,328 @@
+{
+  "matchId": 6529864,
+  "status": "FINISHED",
+  "score": {
+    "home": 1,
+    "away": 1,
+    "htHome": 0,
+    "htAway": 0
+  },
+  "referee": "Adi Aganovic",
+  "goals": [
+    {
+      "minute": "68",
+      "team": "away",
+      "scorer": "Gideon Yaw",
+      "assist": "Netabay",
+      "type": "Normal"
+    }
+  ],
+  "cards": [
+    {
+      "minute": "14",
+      "team": "home",
+      "player": "Tibbling Ugwo",
+      "cardType": "Yellow",
+      "isStaff": false
+    },
+    {
+      "minute": "70",
+      "team": "away",
+      "player": "Diatara",
+      "cardType": "Yellow",
+      "isStaff": false
+    },
+    {
+      "minute": "77",
+      "team": "home",
+      "player": "Parker",
+      "cardType": "Yellow",
+      "isStaff": false
+    },
+    {
+      "minute": "83",
+      "team": "away",
+      "player": "Moro",
+      "cardType": "Yellow",
+      "isStaff": false
+    },
+    {
+      "minute": "84",
+      "team": "away",
+      "player": "Sundgren",
+      "cardType": "Yellow",
+      "isStaff": false
+    },
+    {
+      "minute": "91",
+      "team": "home",
+      "player": "West, målvaktstränare",
+      "cardType": "Yellow",
+      "isStaff": true
+    },
+    {
+      "minute": "91",
+      "team": "away",
+      "player": "Ahmad, ass. tränare",
+      "cardType": "Yellow",
+      "isStaff": true
+    }
+  ],
+  "substitutions": [
+    {
+      "minute": "60",
+      "team": "away",
+      "playerIn": "Leonardsson",
+      "playerOut": "Barsoum"
+    },
+    {
+      "minute": "61",
+      "team": "away",
+      "playerIn": "Netabay",
+      "playerOut": "Taranis"
+    },
+    {
+      "minute": "73",
+      "team": "home",
+      "playerIn": "Svensson",
+      "playerOut": "Andreasson"
+    },
+    {
+      "minute": "73",
+      "team": "home",
+      "playerIn": "Christoffersson",
+      "playerOut": "Laturnus"
+    },
+    {
+      "minute": "79",
+      "team": "away",
+      "playerIn": "Sundgren",
+      "playerOut": "Ohlsson"
+    },
+    {
+      "minute": "89",
+      "team": "home",
+      "playerIn": "Azulay",
+      "playerOut": "Styffe"
+    },
+    {
+      "minute": "89",
+      "team": "home",
+      "playerIn": "Vindehall",
+      "playerOut": "Tibbling Ugwo"
+    }
+  ],
+  "stats": {
+    "homeCorners": 5,
+    "awayCorners": 0,
+    "homeShots": 11,
+    "awayShots": 8,
+    "homeShotsOnGoal": 7,
+    "awayShotsOnGoal": 4,
+    "homeOffsides": 0,
+    "awayOffsides": 0,
+    "homeFreekicks": 5,
+    "awayFreekicks": 10,
+    "homeYellowCards": 2,
+    "awayYellowCards": 3,
+    "homeRedCards": 0,
+    "awayRedCards": 0
+  },
+  "other": [
+    {
+      "minute": "6",
+      "team": "away",
+      "type": "Freekick"
+    },
+    {
+      "minute": "8",
+      "team": "away",
+      "type": "Freekick"
+    },
+    {
+      "minute": "11",
+      "team": "home",
+      "type": "Freekick"
+    },
+    {
+      "minute": "12",
+      "team": "home",
+      "type": "Freekick"
+    },
+    {
+      "minute": "13",
+      "team": "away",
+      "type": "Freekick"
+    },
+    {
+      "minute": "19",
+      "team": "home",
+      "type": "Corner"
+    },
+    {
+      "minute": "20",
+      "team": "home",
+      "type": "Finish"
+    },
+    {
+      "minute": "23",
+      "team": "home",
+      "type": "Corner"
+    },
+    {
+      "minute": "24",
+      "team": "away",
+      "type": "Finish"
+    },
+    {
+      "minute": "25",
+      "team": "home",
+      "type": "Finish"
+    },
+    {
+      "minute": "27",
+      "team": "away",
+      "type": "Freekick"
+    },
+    {
+      "minute": "36",
+      "team": "away",
+      "type": "Finish"
+    },
+    {
+      "minute": "37",
+      "team": "away",
+      "type": "Freekick"
+    },
+    {
+      "minute": "39",
+      "team": "home",
+      "type": "Finish"
+    },
+    {
+      "minute": "41",
+      "team": "home",
+      "type": "Finish"
+    },
+    {
+      "minute": "45",
+      "team": "away",
+      "type": "Finish"
+    },
+    {
+      "minute": "45+1",
+      "team": "home",
+      "type": "Freekick"
+    },
+    {
+      "minute": "47",
+      "team": "home",
+      "type": "Finish"
+    },
+    {
+      "minute": "50",
+      "team": "home",
+      "type": "Finish"
+    },
+    {
+      "minute": "53",
+      "team": "home",
+      "type": "Finish"
+    },
+    {
+      "minute": "54",
+      "team": "away",
+      "type": "Finish"
+    },
+    {
+      "minute": "54",
+      "team": "away",
+      "type": "Freekick"
+    },
+    {
+      "minute": "56",
+      "team": "home",
+      "type": "Finish"
+    },
+    {
+      "minute": "56",
+      "team": "home",
+      "type": "Corner"
+    },
+    {
+      "minute": "57",
+      "team": "home",
+      "type": "Corner"
+    },
+    {
+      "minute": "60",
+      "team": "home",
+      "type": "Finish"
+    },
+    {
+      "minute": "65",
+      "team": "away",
+      "type": "Freekick"
+    },
+    {
+      "minute": "66",
+      "team": "home",
+      "type": "Freekick"
+    },
+    {
+      "minute": "67",
+      "team": "away",
+      "type": "Freekick"
+    },
+    {
+      "minute": "70",
+      "team": "home",
+      "type": "Freekick"
+    },
+    {
+      "minute": "76",
+      "team": "home",
+      "type": "Corner"
+    },
+    {
+      "minute": "77",
+      "team": "away",
+      "type": "Freekick"
+    },
+    {
+      "minute": "78",
+      "team": "away",
+      "type": "Finish"
+    },
+    {
+      "minute": "83",
+      "team": "home",
+      "type": "Penalty"
+    },
+    {
+      "minute": "85",
+      "team": "home",
+      "type": "Penalty goal"
+    },
+    {
+      "minute": "88",
+      "team": "away",
+      "type": "Finish"
+    },
+    {
+      "minute": "90+1",
+      "team": "away",
+      "type": "Freekick"
+    },
+    {
+      "minute": "90+2",
+      "team": "home",
+      "type": "Finish"
+    },
+    {
+      "minute": "90+4",
+      "team": "away",
+      "type": "Finish"
+    }
+  ]
+}

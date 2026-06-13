@@ -1,0 +1,88 @@
+{
+  "matchId": 6532979,
+  "status": "FINISHED",
+  "score": {
+    "home": 8,
+    "away": 0,
+    "htHome": 6,
+    "htAway": 0
+  },
+  "referee": "Ledjon Lezha",
+  "goals": [
+    {
+      "minute": "2",
+      "team": "home",
+      "scorer": "Svensson",
+      "assist": "",
+      "type": "Normal"
+    },
+    {
+      "minute": "7",
+      "team": "home",
+      "scorer": "Drougge",
+      "assist": "",
+      "type": "Normal"
+    },
+    {
+      "minute": "12",
+      "team": "home",
+      "scorer": "Drougge",
+      "assist": "",
+      "type": "Normal"
+    },
+    {
+      "minute": "18",
+      "team": "home",
+      "scorer": "Svensson",
+      "assist": "",
+      "type": "Normal"
+    },
+    {
+      "minute": "30",
+      "team": "home",
+      "scorer": "Svensson",
+      "assist": "",
+      "type": "Normal"
+    },
+    {
+      "minute": "33",
+      "team": "home",
+      "scorer": "Drougge",
+      "assist": "",
+      "type": "Normal"
+    },
+    {
+      "minute": "59",
+      "team": "home",
+      "scorer": "Lindén",
+      "assist": "",
+      "type": "Normal"
+    },
+    {
+      "minute": "85",
+      "team": "home",
+      "scorer": "Wilén",
+      "assist": "",
+      "type": "Normal"
+    }
+  ],
+  "cards": [],
+  "substitutions": [],
+  "stats": {
+    "homeCorners": 0,
+    "awayCorners": 0,
+    "homeShots": 8,
+    "awayShots": 0,
+    "homeShotsOnGoal": 8,
+    "awayShotsOnGoal": 0,
+    "homeOffsides": 0,
+    "awayOffsides": 0,
+    "homeFreekicks": 0,
+    "awayFreekicks": 0,
+    "homeYellowCards": 0,
+    "awayYellowCards": 0,
+    "homeRedCards": 0,
+    "awayRedCards": 0
+  },
+  "other": []
+}

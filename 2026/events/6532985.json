@@ -1,0 +1,68 @@
+{
+  "matchId": 6532985,
+  "status": "FINISHED",
+  "score": {
+    "home": 3,
+    "away": 0,
+    "htHome": 2,
+    "htAway": 0
+  },
+  "referee": "Carlo Osadji",
+  "goals": [
+    {
+      "minute": "22",
+      "team": "home",
+      "scorer": "Åkerberg",
+      "assist": "",
+      "type": "Normal"
+    },
+    {
+      "minute": "25",
+      "team": "home",
+      "scorer": "Åkerberg",
+      "assist": "",
+      "type": "Normal"
+    },
+    {
+      "minute": "84",
+      "team": "home",
+      "scorer": "Åkerström",
+      "assist": "",
+      "type": "Normal"
+    }
+  ],
+  "cards": [
+    {
+      "minute": "58",
+      "team": "home",
+      "player": "Skånberg",
+      "cardType": "Yellow",
+      "isStaff": false
+    },
+    {
+      "minute": "95",
+      "team": "away",
+      "player": "Rees Fager",
+      "cardType": "Yellow",
+      "isStaff": false
+    }
+  ],
+  "substitutions": [],
+  "stats": {
+    "homeCorners": 0,
+    "awayCorners": 0,
+    "homeShots": 3,
+    "awayShots": 0,
+    "homeShotsOnGoal": 3,
+    "awayShotsOnGoal": 0,
+    "homeOffsides": 0,
+    "awayOffsides": 0,
+    "homeFreekicks": 0,
+    "awayFreekicks": 0,
+    "homeYellowCards": 1,
+    "awayYellowCards": 1,
+    "homeRedCards": 0,
+    "awayRedCards": 0
+  },
+  "other": []
+}

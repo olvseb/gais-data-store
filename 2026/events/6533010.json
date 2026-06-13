@@ -1,0 +1,88 @@
+{
+  "matchId": 6533010,
+  "status": "FINISHED",
+  "score": {
+    "home": 5,
+    "away": 2,
+    "htHome": 1,
+    "htAway": 0
+  },
+  "referee": "Yosuf Amiri",
+  "goals": [
+    {
+      "minute": "7",
+      "team": "home",
+      "scorer": "Fredriksson",
+      "assist": "",
+      "type": "Normal"
+    },
+    {
+      "minute": "49",
+      "team": "away",
+      "scorer": "Årstadius",
+      "assist": "",
+      "type": "Normal"
+    },
+    {
+      "minute": "60",
+      "team": "home",
+      "scorer": "Broljung",
+      "assist": "",
+      "type": "Normal"
+    },
+    {
+      "minute": "72",
+      "team": "home",
+      "scorer": "Hassel",
+      "assist": "",
+      "type": "Normal"
+    },
+    {
+      "minute": "78",
+      "team": "home",
+      "scorer": "Broljung",
+      "assist": "",
+      "type": "Normal"
+    },
+    {
+      "minute": "89",
+      "team": "home",
+      "scorer": "Broljung",
+      "assist": "",
+      "type": "Normal"
+    }
+  ],
+  "cards": [
+    {
+      "minute": "45",
+      "team": "home",
+      "player": "Göransson",
+      "cardType": "Yellow",
+      "isStaff": false
+    }
+  ],
+  "substitutions": [],
+  "stats": {
+    "homeCorners": 0,
+    "awayCorners": 0,
+    "homeShots": 5,
+    "awayShots": 2,
+    "homeShotsOnGoal": 5,
+    "awayShotsOnGoal": 2,
+    "homeOffsides": 0,
+    "awayOffsides": 0,
+    "homeFreekicks": 0,
+    "awayFreekicks": 0,
+    "homeYellowCards": 1,
+    "awayYellowCards": 0,
+    "homeRedCards": 0,
+    "awayRedCards": 0
+  },
+  "other": [
+    {
+      "minute": "52",
+      "team": "away",
+      "type": "Penalty goal"
+    }
+  ]
+}

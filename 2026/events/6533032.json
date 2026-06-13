@@ -1,0 +1,82 @@
+{
+  "matchId": 6533032,
+  "status": "FINISHED",
+  "score": {
+    "home": 0,
+    "away": 6,
+    "htHome": 0,
+    "htAway": 3
+  },
+  "referee": "Oliver Zayton",
+  "goals": [
+    {
+      "minute": "3",
+      "team": "away",
+      "scorer": "Rees",
+      "assist": "",
+      "type": "Normal"
+    },
+    {
+      "minute": "5",
+      "team": "away",
+      "scorer": "Rees",
+      "assist": "",
+      "type": "Normal"
+    },
+    {
+      "minute": "40",
+      "team": "away",
+      "scorer": "Rees",
+      "assist": "",
+      "type": "Normal"
+    },
+    {
+      "minute": "47",
+      "team": "away",
+      "scorer": "Carlund",
+      "assist": "",
+      "type": "Normal"
+    },
+    {
+      "minute": "66",
+      "team": "away",
+      "scorer": "Nacini Fagberg",
+      "assist": "",
+      "type": "Normal"
+    },
+    {
+      "minute": "68",
+      "team": "away",
+      "scorer": "Rees",
+      "assist": "",
+      "type": "Normal"
+    }
+  ],
+  "cards": [
+    {
+      "minute": "45",
+      "team": "home",
+      "player": "Erlandsson",
+      "cardType": "Yellow",
+      "isStaff": false
+    }
+  ],
+  "substitutions": [],
+  "stats": {
+    "homeCorners": 0,
+    "awayCorners": 0,
+    "homeShots": 0,
+    "awayShots": 6,
+    "homeShotsOnGoal": 0,
+    "awayShotsOnGoal": 6,
+    "homeOffsides": 0,
+    "awayOffsides": 0,
+    "homeFreekicks": 0,
+    "awayFreekicks": 0,
+    "homeYellowCards": 1,
+    "awayYellowCards": 0,
+    "homeRedCards": 0,
+    "awayRedCards": 0
+  },
+  "other": []
+}

@@ -1,0 +1,68 @@
+{
+  "matchId": 6533012,
+  "status": "FINISHED",
+  "score": {
+    "home": 2,
+    "away": 1,
+    "htHome": 1,
+    "htAway": 0
+  },
+  "referee": "Darmin Muslimovic",
+  "goals": [
+    {
+      "minute": "12",
+      "team": "home",
+      "scorer": "Engman",
+      "assist": "",
+      "type": "Normal"
+    },
+    {
+      "minute": "57",
+      "team": "home",
+      "scorer": "Ekner",
+      "assist": "",
+      "type": "Normal"
+    },
+    {
+      "minute": "77",
+      "team": "away",
+      "scorer": "Drougge",
+      "assist": "",
+      "type": "Normal(Header)"
+    }
+  ],
+  "cards": [
+    {
+      "minute": "18",
+      "team": "away",
+      "player": "Hamstein",
+      "cardType": "Yellow",
+      "isStaff": false
+    },
+    {
+      "minute": "26",
+      "team": "away",
+      "player": "Andersson",
+      "cardType": "Yellow",
+      "isStaff": false
+    }
+  ],
+  "substitutions": [],
+  "stats": {
+    "homeCorners": 0,
+    "awayCorners": 0,
+    "homeShots": 2,
+    "awayShots": 1,
+    "homeShotsOnGoal": 2,
+    "awayShotsOnGoal": 1,
+    "homeOffsides": 0,
+    "awayOffsides": 0,
+    "homeFreekicks": 0,
+    "awayFreekicks": 0,
+    "homeYellowCards": 0,
+    "awayYellowCards": 2,
+    "homeRedCards": 0,
+    "awayRedCards": 0
+  },
+  "other": []
+}

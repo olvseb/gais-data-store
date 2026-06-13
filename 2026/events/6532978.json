@@ -1,0 +1,61 @@
+{
+  "matchId": 6532978,
+  "status": "FINISHED",
+  "score": {
+    "home": 1,
+    "away": 2,
+    "htHome": 1,
+    "htAway": 1
+  },
+  "referee": "Ibrahim Rashid",
+  "goals": [
+    {
+      "minute": "12",
+      "team": "home",
+      "scorer": "Lundin",
+      "assist": "",
+      "type": "Normal"
+    },
+    {
+      "minute": "26",
+      "team": "away",
+      "scorer": "Josefsson",
+      "assist": "",
+      "type": "Normal"
+    },
+    {
+      "minute": "64",
+      "team": "away",
+      "scorer": "Atash-Faraz",
+      "assist": "",
+      "type": "Normal(Header)"
+    }
+  ],
+  "cards": [
+    {
+      "minute": "81",
+      "team": "away",
+      "player": "Berglund",
+      "cardType": "Yellow",
+      "isStaff": false
+    }
+  ],
+  "substitutions": [],
+  "stats": {
+    "homeCorners": 0,
+    "awayCorners": 0,
+    "homeShots": 1,
+    "awayShots": 2,
+    "homeShotsOnGoal": 1,
+    "awayShotsOnGoal": 2,
+    "homeOffsides": 0,
+    "awayOffsides": 0,
+    "homeFreekicks": 0,
+    "awayFreekicks": 0,
+    "homeYellowCards": 0,
+    "awayYellowCards": 1,
+    "homeRedCards": 0,
+    "awayRedCards": 0
+  },
+  "other": []
+}

@@ -1,0 +1,89 @@
+{
+  "matchId": 6533030,
+  "status": "FINISHED",
+  "score": {
+    "home": 1,
+    "away": 6,
+    "htHome": 1,
+    "htAway": 1
+  },
+  "referee": "Martin Petersson",
+  "goals": [
+    {
+      "minute": "11",
+      "team": "away",
+      "scorer": "Persson",
+      "assist": "",
+      "type": "Normal"
+    },
+    {
+      "minute": "27",
+      "team": "home",
+      "scorer": "Djuricic",
+      "assist": "",
+      "type": "Normal"
+    },
+    {
+      "minute": "52",
+      "team": "away",
+      "scorer": "Persson",
+      "assist": "",
+      "type": "Normal"
+    },
+    {
+      "minute": "65",
+      "team": "away",
+      "scorer": "Persson",
+      "assist": "",
+      "type": "Normal"
+    },
+    {
+      "minute": "74",
+      "team": "away",
+      "scorer": "Cederstav",
+      "assist": "",
+      "type": "Normal"
+    },
+    {
+      "minute": "88",
+      "team": "away",
+      "scorer": "Svensson",
+      "assist": "",
+      "type": "Normal"
+    }
+  ],
+  "cards": [
+    {
+      "minute": "32",
+      "team": "home",
+      "player": "Enoksson",
+      "cardType": "Yellow",
+      "isStaff": false
+    },
+    {
+      "minute": "57",
+      "team": "away",
+      "player": "Nikell",
+      "cardType": "Yellow",
+      "isStaff": false
+    }
+  ],
+  "substitutions": [],
+  "stats": {
+    "homeCorners": 0,
+    "awayCorners": 0,
+    "homeShots": 1,
+    "awayShots": 6,
+    "homeShotsOnGoal": 1,
+    "awayShotsOnGoal": 6,
+    "homeOffsides": 0,
+    "awayOffsides": 0,
+    "homeFreekicks": 0,
+    "awayFreekicks": 0,
+    "homeYellowCards": 1,
+    "awayYellowCards": 1,
+    "homeRedCards": 0,
+    "awayRedCards": 0
+  },
+  "other": []
+}

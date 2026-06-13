@@ -1,0 +1,61 @@
+{
+  "matchId": 6532991,
+  "status": "FINISHED",
+  "score": {
+    "home": 3,
+    "away": 0,
+    "htHome": 0,
+    "htAway": 0
+  },
+  "referee": "Fidel Shiba",
+  "goals": [
+    {
+      "minute": "75",
+      "team": "home",
+      "scorer": "Josefsson",
+      "assist": "",
+      "type": "Normal"
+    },
+    {
+      "minute": "83",
+      "team": "home",
+      "scorer": "Berglund",
+      "assist": "",
+      "type": "Normal"
+    },
+    {
+      "minute": "90",
+      "team": "home",
+      "scorer": "Nutu",
+      "assist": "",
+      "type": "Normal"
+    }
+  ],
+  "cards": [
+    {
+      "minute": "54",
+      "team": "away",
+      "player": "Björnerud",
+      "cardType": "Yellow",
+      "isStaff": false
+    }
+  ],
+  "substitutions": [],
+  "stats": {
+    "homeCorners": 0,
+    "awayCorners": 0,
+    "homeShots": 3,
+    "awayShots": 0,
+    "homeShotsOnGoal": 3,
+    "awayShotsOnGoal": 0,
+    "homeOffsides": 0,
+    "awayOffsides": 0,
+    "homeFreekicks": 0,
+    "awayFreekicks": 0,
+    "homeYellowCards": 0,
+    "awayYellowCards": 1,
+    "homeRedCards": 0,
+    "awayRedCards": 0
+  },
+  "other": []
+}

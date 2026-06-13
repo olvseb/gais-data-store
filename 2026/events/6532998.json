@@ -1,0 +1,82 @@
+{
+  "matchId": 6532998,
+  "status": "FINISHED",
+  "score": {
+    "home": 5,
+    "away": 0,
+    "htHome": 2,
+    "htAway": 0
+  },
+  "referee": "Gebremeskel Elias",
+  "goals": [
+    {
+      "minute": "9",
+      "team": "home",
+      "scorer": "Nyblom",
+      "assist": "",
+      "type": "Normal"
+    },
+    {
+      "minute": "23",
+      "team": "home",
+      "scorer": "Broljung",
+      "assist": "",
+      "type": "Normal"
+    },
+    {
+      "minute": "46",
+      "team": "home",
+      "scorer": "Ek",
+      "assist": "",
+      "type": "Normal"
+    },
+    {
+      "minute": "51",
+      "team": "home",
+      "scorer": "Chamoun",
+      "assist": "",
+      "type": "Normal"
+    },
+    {
+      "minute": "86",
+      "team": "home",
+      "scorer": "Broljung",
+      "assist": "",
+      "type": "Normal"
+    }
+  ],
+  "cards": [
+    {
+      "minute": "55",
+      "team": "home",
+      "player": "Chamoun",
+      "cardType": "Yellow",
+      "isStaff": false
+    },
+    {
+      "minute": "79",
+      "team": "home",
+      "player": "Wahlström",
+      "cardType": "Yellow",
+      "isStaff": false
+    }
+  ],
+  "substitutions": [],
+  "stats": {
+    "homeCorners": 0,
+    "awayCorners": 0,
+    "homeShots": 5,
+    "awayShots": 0,
+    "homeShotsOnGoal": 5,
+    "awayShotsOnGoal": 0,
+    "homeOffsides": 0,
+    "awayOffsides": 0,
+    "homeFreekicks": 0,
+    "awayFreekicks": 0,
+    "homeYellowCards": 2,
+    "awayYellowCards": 0,
+    "homeRedCards": 0,
+    "awayRedCards": 0
+  },
+  "other": []
+}
